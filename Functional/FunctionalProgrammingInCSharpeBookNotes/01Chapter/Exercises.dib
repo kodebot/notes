@@ -1,0 +1,15 @@
+#!csharp
+
+// Exercise 2:
+// Write a function that negates a given predicate
+using static System.Console;
+
+Predicate<int> ExamplePredicate = t => t > 0;
+
+public static Predicate<T> Negate<T>(Predicate<T> func)
+{
+    return value => !func(value);
+}
+
+WriteLine(ExamplePredicate(10));
+WriteLine(Negate(ExamplePredicate)(10))
