@@ -37,6 +37,7 @@ One server in each rack runs `Fabric Controller`.
 
 # Hierarchy
 
+```
 Azure Account
 
 |
@@ -51,3 +52,4 @@ Azure Account
 
         |__ Resource(s) (like VM, Database, storage account, etc...)
 
+```
