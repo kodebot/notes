@@ -28,3 +28,8 @@ One server in each rack runs `Fabric Controller`.
 3. Blob Storage
 4. Mobile Services
 5. Databases
+6. Web
+7. IoT
+8. Big Data
+9. AI
+10. DevOps
