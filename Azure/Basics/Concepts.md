@@ -27,7 +27,7 @@ One server in each rack runs `Fabric Controller`.
     * VM, VMSS, K8s, ServiceFab, Batch, Container Instance and Functions
 2. Networking
 3. Storage (Blob, File, Queue, Table)
-4. Mobile Services
+4. Mobile Services (Data sync, push notification, etc...)
 5. Databases
 6. Web
 7. IoT
