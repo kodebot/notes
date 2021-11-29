@@ -39,17 +39,11 @@ One server in each rack runs `Fabric Controller`.
 
 ```
 Azure Account
-
 |
-
 |__ Subscription(s)
-
     |
-
     |__ Resource Group(s)
-
         |
-
         |__ Resource(s) (like VM, Database, storage account, etc...)
 
 ```
