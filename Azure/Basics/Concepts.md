@@ -38,6 +38,7 @@ One server in each rack runs `Fabric Controller`.
 # Hierarchy
 
 Azure Account
+
 |
 |__ Subscription(s)
     |
