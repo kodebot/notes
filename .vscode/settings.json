@@ -1,0 +1,12 @@
+{
+    "saveAndRun": {
+        "commands": [
+            {
+                "match": "\\.*",
+                "isAsync": true,
+                "cmd": "cd ${workspaceFolder}",
+            }
+        ]
+    },
+    "files.autoSave": "off"
+}
