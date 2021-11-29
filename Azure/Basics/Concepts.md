@@ -42,6 +42,7 @@ Azure Account
 |
 
 |__ Subscription(s)
+
     |
     |__ Resource Group(s)
         |
