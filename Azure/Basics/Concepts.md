@@ -25,4 +25,6 @@ One server in each rack runs `Fabric Controller`.
 # Main offerings
 1. Compute
 2. Networking
-3. Storage
+3. Blob Storage
+4. Mobile Services
+5. Databases
