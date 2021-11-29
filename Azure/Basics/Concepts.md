@@ -49,3 +49,7 @@ Azure Account
 ```
 
 # Cloud Computing Deployment Model
+
+* Public cloud
+* Private cloud
+* Hybrid cloud
