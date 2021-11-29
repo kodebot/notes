@@ -34,3 +34,14 @@ One server in each rack runs `Fabric Controller`.
 8. Big Data
 9. AI
 10. DevOps
+
+# Hierarchy
+
+Azure Account
+|
+|__ Subscription(s)
+    |
+    |__ Resource Group(s)
+        |
+        |__ Resource(s) (like VM, Database, storage account, etc...)
+
