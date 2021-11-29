@@ -21,3 +21,8 @@ One server in each rack runs `Fabric Controller`.
 `Fabric Controller`s are connected to `Orchestrator`.
 
 `Orhestrators` is responsible for everything that happens in Azure. All the actions that user performs in Azure is sent to `Orchestrator` via its web api.
+
+# Main offerings
+1. Compute
+2. Networking
+3. Storage
