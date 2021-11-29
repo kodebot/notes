@@ -53,3 +53,10 @@ Azure Account
 * Public cloud
 * Private cloud
 * Hybrid cloud
+
+
+# Cloud Service Model
+
+* IaaS
+* PaaS
+* Saas
