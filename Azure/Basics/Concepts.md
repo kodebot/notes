@@ -14,4 +14,4 @@ Physical Server + Hypervisor = Many virtual servers
 * Each datacenter has many racks
 * Each rack has many servers
 
-A rack has many servers connected to a network switch
+All the servers of a rack are connected to network switch
