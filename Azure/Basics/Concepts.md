@@ -15,3 +15,9 @@ Physical Server + Hypervisor = Many virtual servers
 * Each rack has many servers
 
 All the servers of a rack are connected to network switch
+
+One server in each rack runs `Fabric Controller`.
+
+`Fabric Controller`s are connected to `Orchestrator`.
+
+`Orhestrators` is responsible for everything that happens in Azure. All the actions that user performs in Azure is sent to `Orchestrator` via its web api.
