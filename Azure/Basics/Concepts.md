@@ -48,5 +48,6 @@ Azure Account
     |__ Resource Group(s)
 
         |
+
         |__ Resource(s) (like VM, Database, storage account, etc...)
 
