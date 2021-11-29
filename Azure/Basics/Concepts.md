@@ -47,3 +47,5 @@ Azure Account
         |__ Resource(s) (like VM, Database, storage account, etc...)
 
 ```
+
+# Cloud Computing Deployment Model
