@@ -119,3 +119,8 @@ Resoruce group is
     * logical group of resources
     * controls lifecycle of resoruces under it. i.e. if you delete rg all the resources in that are gone
     * can apply RBAC permissions are rg level
+
+
+ARM 
+    - is deployment and management servic for Azure.
+    - provides management layer to CRUD resources
