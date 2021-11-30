@@ -76,4 +76,4 @@ Management group(s)
 Management group allows managing multiple subscritions by applying access, policy and compliance at management group level. All the subs under a management group inherits all these props.
 
 
-Subscription is combination of users and Resource/Resource groups. 
+Subscription users and resources created by those users. Limits and quotas can be applied to each sub and orgs can use sub to manage cost and resources created by team/projects.
