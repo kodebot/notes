@@ -119,6 +119,8 @@ Management group(s)
 * logical group of resources
 * controls lifecycle of resoruces under it. i.e. if you delete rg all the resources in that are gone
 * can apply RBAC permissions are rg level
+* a resource can only be part of one rg
+* rgs cannot be nested
 
 
 ## ARM 
@@ -138,4 +140,12 @@ Management group(s)
     * access control boundary
 * limits can be applied on subs
 
-if you have multiple subs, invocie section allows you to organise your invoices
+if you have multiple subs, invocie section allows you to organise your invoice
+
+# Azure management groups
+
+* gropus subs
+* allows managaging access, policies and compliance for group of subs
+* all subs must trust same AD tenant for this to work
+* you can have hierarchy of management groups (max 6 level deep and 10,000 in total)
+
