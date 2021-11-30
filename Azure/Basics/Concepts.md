@@ -81,3 +81,8 @@ Management group(s)
 `Resource Groups` ➡️  logical container for resources
 
 `Resource` ➡️ things you create in Azure
+
+
+# Region, Availability Zones and Region Pairs
+
+* `Region` - Geographical location that contains Azure datacenters. Azure has many Regions across the world
