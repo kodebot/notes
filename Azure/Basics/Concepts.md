@@ -127,3 +127,15 @@ Management group(s)
 * Azure portal, Azure PS, Azure CLI, REST Clients all intracts with ARM to manage resources
 * it is declarative in nature
 
+
+# Azure Subscription
+* provides authenticated access to services and products
+* logical unit for resources linked to Azure account
+* An account can have more than one subs
+* Azure accont is identity in Azure AD or similar
+* subs can be used to define boundaries
+    * billing boundary
+    * access control boundary
+* limits can be applied on subs
+
+if you have multiple subs, invocie section allows you to organise your invoices
