@@ -113,7 +113,7 @@ Management group(s)
     * Data resides within same geography except for Brazil South (South Central US is the pair)
 
 
-# Resource and Resource Manager
+# Azure Resource and Azure Resource Manager (ARM)
 
 Resoruce group is
     * logical group of resources
