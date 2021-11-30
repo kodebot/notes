@@ -10,3 +10,4 @@
 * Number of VM Instances
 * Size of VM (small, medium, large)
 * Pricing tier (Free, Standard, etc...)
+    * Free and Shared uses Shared Compute
