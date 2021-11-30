@@ -78,6 +78,6 @@ Management group(s)
 
 `Subscription` =>  groups users and resources created by those users. Limits and quotas can be applied to each sub and orgs can use sub to manage cost and resources created by team/projects.
 
-`Resource Groups` logical container for resources
+`Resource Groups` =>  logical container for resources
 
 `Resource` things you create in Azure
