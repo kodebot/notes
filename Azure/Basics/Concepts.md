@@ -116,6 +116,7 @@ Management group(s)
 # Azure Resource and Azure Resource Manager (ARM)
 
 Resoruce group is
+
     * logical group of resources
     * controls lifecycle of resoruces under it. i.e. if you delete rg all the resources in that are gone
     * can apply RBAC permissions are rg level
