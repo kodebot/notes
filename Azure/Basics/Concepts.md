@@ -100,7 +100,9 @@ Management group(s)
 
     * It is isolation boundary, so if one goes down, other will continue to work
     * Availability Zones are conencted via high speed, private fiber optic networks
+    * Availability Zones are genrally not far from each other
     * Not all regions support availability zone
     * Zonal Service - resources are pinned to a zone
     * Zone-redundant service - platform replicates across zones
     * Non-regional service - available from Azure geographics and resilient to zone-wide outage
+
