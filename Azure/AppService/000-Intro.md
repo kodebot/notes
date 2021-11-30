@@ -10,4 +10,6 @@
 * Number of VM Instances
 * Size of VM (small, medium, large)
 * Pricing tier (Free, Standard, etc...)
-    * Free and Shared uses Shared Compute
+    * Free and Shared uses Shared Compute (shared with other customers)
+    * Basic, Standard, Premium, PV2 and PV3 uses Dedicated VMs
+    * Isolated uses isolated VMs with dedicated Azure Virtual Networks (network isolation)
