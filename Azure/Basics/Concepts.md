@@ -125,4 +125,5 @@ ARM
     - is deployment and management servic for Azure.
     - provides management layer to CRUD resources
     - Azure portal, Azure PS, Azure CLI, REST Clients all intracts with ARM to manage resources
+    - it is declarative in nature
 
