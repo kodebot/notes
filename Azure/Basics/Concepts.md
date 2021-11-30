@@ -94,5 +94,6 @@ Management group(s)
     * Azure has special regions that can be used for compliance and legal purposes.
         
         * US DoD Central, US Gov Virginia, etc..
+        * China East, China North, etc..
 
 * `
