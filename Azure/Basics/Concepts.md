@@ -72,3 +72,8 @@ Management group(s)
         |
         |__ Resource(s)
 ```
+
+Management group allows managing multiple subscritions by applying access, policy and compliance at management group level. All the subs under a management group inherits all these props.
+
+
+Subscription is combination of users and Resource/Resource groups. 
