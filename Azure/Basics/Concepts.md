@@ -60,3 +60,15 @@ Azure Account
 * IaaS
 * PaaS
 * Saas
+
+# Organising structure
+
+```
+Management group(s)
+|
+|__Subscription(s)
+    |
+    |__Resource Group(s)
+        |
+        |__ Resource(s)
+```
