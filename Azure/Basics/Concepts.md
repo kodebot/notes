@@ -80,4 +80,4 @@ Management group(s)
 
 `Resource Groups` =>  logical container for resources
 
-`Resource` things you create in Azure
+`Resource` => things you create in Azure
