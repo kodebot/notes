@@ -91,4 +91,8 @@ Management group(s)
 
     * West US, West Europe and Japan are some examples of region
 
+    * Azure has special regions that can be used for compliance and legal purposes.
+        
+        * US DoD Central, US Gov Virginia, etc..
+
 * `
