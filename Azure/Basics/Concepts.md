@@ -124,3 +124,5 @@ Resoruce group is
 ARM 
     - is deployment and management servic for Azure.
     - provides management layer to CRUD resources
+    - Azure portal, Azure PS, Azure CLI, REST Clients all intracts with ARM to manage resources
+
