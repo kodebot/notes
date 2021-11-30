@@ -122,7 +122,7 @@ Resoruce group is
     * can apply RBAC permissions are rg level
 
 
-ARM 
+## ARM 
 
 * is deployment and management servic for Azure.
 * provides management layer to CRUD resources
