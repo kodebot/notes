@@ -85,4 +85,6 @@ Management group(s)
 
 # Region, Availability Zones and Region Pairs
 
-* `Region` - Geographical location that contains Azure datacenters. Azure has many Regions across the world
+* `Region` - Geographical location that contains at least one Azure datacenter. Azure has many Regions across the world. When a region has more than one datacenters then they are networked toghther with low latency network
+
+* `
