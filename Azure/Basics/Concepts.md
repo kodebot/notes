@@ -111,3 +111,11 @@ Management group(s)
     * with region pairs, resources are replicated to paired region (geo-redundant)
     * when both regions are affected, Microsoft prioritises to restore service on one of the paried region ASAP
     * Data resides within same geography except for Brazil South (South Central US is the pair)
+
+
+# Resource and Resource Manager
+
+Resoruce group is
+    * logical group of resources
+    * controls lifecycle of resoruces under it. i.e. if you delete rg all the resources in that are gone
+    * can apply RBAC permissions are rg level
