@@ -4,6 +4,9 @@
 * Alwasy runs in an App Service Plan
 * One or more apps can run in App Service Plan
 * Functions can be configured to run in App Service Plan too
+* Built-in auto-scale support
+* CI/CD support
+* Deployment slot support
 
 ## App service plan defines
 * Region
