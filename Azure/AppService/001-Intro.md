@@ -32,3 +32,12 @@
     * Linux not supoprted in shared pricing tier
     * Can't mix linux and windows apps in the same App Service Plan
     * Historically can't even share rg for linux and windows resoruces but this has changed on 📅 21<sup>st</sup> Jan 2021 
+
+
+## How running and scalling apps work?
+
+* An app runs on all the VM instances available in the App Service Plan
+* If multiple app are running in the App Service Plan then each app run on all of the VM instalnces
+* When multiple deployment slots are created, each slot runs on all of the VM instances
+* Any additional activities like logging, backup or running WebJob affects the performance of the the Apps becuase they too use the CPU of the VM instances
+
