@@ -14,4 +14,4 @@
 
 # General Settings
 
-*Configurtion* ➡️ *Application Settings*
+*Configurtion* ➡️ *General settings*
