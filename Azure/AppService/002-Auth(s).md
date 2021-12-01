@@ -10,7 +10,7 @@ App Service uses federated identity, in which a third-party identity providers m
 ## Default Supported Providers
 
 | Provider                    | Sign-in endpoint        |
-| :--:                        | :--:                    |
+| :--                        | :--                    |
 | Microsoft Identity Platform | /.auth/login/aad        |
 | Facebook                    | /.auth/login/facebook   |
 | Google                      | /.auth/login/google     |
