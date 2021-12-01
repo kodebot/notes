@@ -27,3 +27,8 @@
     ```
     az webapp list-runtimes --linux
     ```
+
+* Limitations
+    * Linux not supoprted in shared pricing tier
+    * Can't mix linux and windows apps in the same App Service Plan
+    * Historically can't even share rg for linux and windows resoruces but this has changed on 21st Jan 2021
