@@ -14,4 +14,4 @@
 
 # General Settings
 
-*Configurtion* ➡️ *General settings*
+> *Configurtion* ➡️ *General settings*
