@@ -19,3 +19,11 @@
     * Isolated uses isolated VMs with dedicated Azure Virtual Networks (network isolation)
     * Consumption - only for Functions app - pay as you go
 
+## Linux support
+
+* Supports hosting web apps natively on Linux
+* Can run custom linux containers too (aka Web App for Containers)
+* You can view built in supported runtimes for linux using
+    ```
+    az webapp list-runtimes --linux
+    ```
