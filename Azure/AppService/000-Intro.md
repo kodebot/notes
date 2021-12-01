@@ -1,6 +1,6 @@
 # Azure App Service
 
-* App can be Web Apps, API Apps or Mobile Apps
+* App is HTTP based service - Web App, APIs or mobile app backend
 * Alwasy runs in an App Service Plan
 * One or more apps can run in App Service Plan
 * Functions can be configured to run in App Service Plan too
