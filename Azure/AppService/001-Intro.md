@@ -44,8 +44,7 @@
 In other words, App service plane is `scale unit` for apps.
 
 * App Service Plan can be scalled up and down anytime by chaning the pricing tier
-* Moving app from one App Service Plan to another is possible
-
+* Moving app from one App Service Plan to another is possible as long as both plans are in the same region
 
 ## Deployments
 
