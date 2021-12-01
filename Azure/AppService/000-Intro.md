@@ -7,6 +7,7 @@
 * Built-in auto-scale support
 * CI/CD support
 * Deployment slot support
+* Supports Linux
 
 ## App service plan defines
 * Region
