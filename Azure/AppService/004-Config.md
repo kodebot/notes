@@ -15,3 +15,5 @@
 # General Settings
 
 > *Configurtion* ➡️ *General settings*
+
+* Runtime stack settings (e.g. Python, maj ver, min ver)
