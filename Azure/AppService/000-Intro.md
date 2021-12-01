@@ -18,3 +18,4 @@
     * Basic, Standard, Premium, PV2 and PV3 uses Dedicated VMs
     * Isolated uses isolated VMs with dedicated Azure Virtual Networks (network isolation)
     * Consumption - only for Functions app - pay as you go
+
