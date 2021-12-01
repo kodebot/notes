@@ -41,3 +41,21 @@
 * When multiple deployment slots are created, each slot runs on all of the VM instances
 * Any additional activities like logging, backup or running WebJob affects the performance of the the Apps becuase they too use the CPU of the VM instances
 
+In other words, App service plane is `scale unit` for apps.
+
+* App Service Plan can be scalled up and down anytime by chaning the pricing tier
+* Moving app from one App Service Plan to another is possible
+
+
+## Deployments
+
+* Automated Deployment
+    * Azure DevOps
+    * Github
+    * Bitbucket
+
+* Manual
+    * Git
+    * CLI
+    * ZIP
+    * FTP
