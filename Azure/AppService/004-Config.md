@@ -1,6 +1,6 @@
 # App Settings
 
->> *Configurtion* ➡️ *Application Settings*
+> *Configurtion* ➡️ *Application Settings*
 
 * App settings are variables passed as environment variables to application code
 * App settings overrides web.config or appsettings.json
