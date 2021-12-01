@@ -17,3 +17,14 @@
 > *Configurtion* ➡️ *General settings*
 
 * Runtime stack settings (e.g. Python, maj ver, min ver)
+* Platform settings 
+    * bitness (32/64)
+    * websocket protocal
+    * always on to avoid unloading app after 20 minutes of idle
+    * IIS mode - managed/integrated
+    * http version
+    * ARR affinity - to ensure request from a session in routed to same VM 
+
+* Debugging
+* Incoming Client Certs
+
