@@ -22,3 +22,6 @@ resulted in too many wasted address
 ![image NAT](./img/nat.png)
 
 NAT basically works by assigning different ports to different connections and tracking them
+
+
+# Classless Inter-Domain Routing (CIDR)
