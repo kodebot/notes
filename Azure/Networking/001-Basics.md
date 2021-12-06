@@ -18,9 +18,15 @@ A networking resource in Azure
 ## IP Range
 
 * can use IP range defined in RFC1918 (10.0.0.0/16)
-* cannot use the following
+* cannot use the following range
     - 224.0.0.0/4 (Multicast)
     - 255.255.255.255/32 (Broadcast)
+    - 127.0.0.0 (Loopback)
+    - 169.254.0.0/16 (link-local)
+    - 168.63.129.16/32 (intenal DNS)
+* can attach pub ip
+
+
 
 # DNS
 
