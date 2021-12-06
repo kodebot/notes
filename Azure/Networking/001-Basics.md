@@ -26,6 +26,11 @@ A networking resource in Azure
     - 168.63.129.16/32 (intenal DNS)
 * can attach pub ip
 
+## Azure Reserved IP Addresses
+
+Azure reserves 5 in each subnet
+
+x.x.x.0 to x.x.x.3
 
 
 # DNS
