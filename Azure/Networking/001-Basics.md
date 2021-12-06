@@ -27,4 +27,4 @@ NAT basically works by assigning different ports to different connections and tr
 # Classless Inter-Domain Routing (CIDR)
 
 
-|[image CIDR](./img/cidr.png)
+![image CIDR](./img/cidr.png)
