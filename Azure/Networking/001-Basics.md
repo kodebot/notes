@@ -28,6 +28,8 @@ NAT basically works by assigning different ports to different connections and tr
 
 # Classless Inter-Domain Routing (CIDR)
 
+Used only for private address space
+
 ![image CIDR](./img/cidr.png)
 
 CIDR solves address wastage issue by being flexible on network and host bits allocation
