@@ -12,7 +12,9 @@ Defines how net id and host ids are allocated
 |Class D (multicast)|1110	        |NA             |NA            |224.0.0.0 to	239.255.255.255 |NA    |	
 |Class E (reserved) |1111	        |NA             |NA            |240.0.0.0	255.255.255.255     |NA    |
 
-resulted in too many wasted address 
+the network and host bits are fixed and no flexibility - resulted in too many wasted address
+
+i.e. you will have smaller number of networks with too many hosts in them or too many networks with small number of hosts in them.
 
 
 # Network Address Translation (NAT)
