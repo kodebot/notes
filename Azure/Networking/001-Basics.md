@@ -34,3 +34,25 @@ Used only for private address space
 
 CIDR solves address wastage issue by being flexible on network and host bits allocation
 
+It is right-padded bitmask that's applied to the IP Address
+
+```
+13.91.28.40/13 => 13.91.28.40 <mask> 255.248.0.0 =>
+
+00001101.01011011.00011100.00101000 
+        <mask> 
+11111111.11111000.00000000.00000000
+        =>
+00001101.01011000.00000000.00000000
+13.88.0.0 (first IP) aka network Id
+
+
+To get last IP, take the first IP and set the host bits to 1
+00001101.01011000.00000000.00000000
+
+00001101.01011111.11111111.11111111
+
+13.95.255.255 (last IP) aka broadcast Id
+
+
+```
