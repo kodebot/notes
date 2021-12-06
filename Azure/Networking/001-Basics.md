@@ -14,4 +14,4 @@ A networking resource in Azure
 
 # Hub and Spoke model
 
-![image hub and spoke](./img/hubandspoke.png)
+![image hub and spoke](./img/hubnspoke.png)
