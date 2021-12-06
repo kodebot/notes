@@ -51,8 +51,16 @@ PIP can be assined to
 * Azure Firewall
 
 ### SKU
-* basic
+* basic (old default) 
+    - static or dynamic - default dynamic
+    - open by default but NSG recommended
+    - allowed on all resources that supports PIP
+    - availability zones not supported
 * standard
+    - preferred
+    - static by default
+    - open for outbound
+    - closed by default for inboud
 
 
 # DNS
