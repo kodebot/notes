@@ -4,7 +4,7 @@ Defines how net id and host ids are allocated
 
 ![image classful](./img/classful.png)
 
-Class	Leading bits	Size of network number bit field	Size of rest bit field	Number of networks	Addresses per network	Total addresses in class	Start address	End address	Default subnet mask in dot-decimal notation	CIDR notation
+|Class	|Leading bits|	Network Bits|	HostID bits|	Address Range| CIDR|
 Class A	0	8	24	0.0.0.0 to 127.255.255.255 /8
 Class B	10	16	16	128.0.0.0 to 191.255.255.255 /16
 Class C	110	24	8	192.0.0.0 to 223.255.255.255 /24
