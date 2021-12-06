@@ -32,10 +32,10 @@ Azure reserves 5 in each subnet
 
 x.x.x.0 to x.x.x.3 and the last address of the subnet
 
-x.x.x.0 - Network address
-x.x.x.1 - Default gateway
-x.x.x.2 and 3 - used for DNS mapping
-x.x.x.255 - broadcast address
+* x.x.x.0 - Network address
+* x.x.x.1 - Default gateway
+* x.x.x.2 and 3 - used for DNS mapping
+* x.x.x.255 - broadcast address
 
 # DNS
 
