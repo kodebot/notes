@@ -10,3 +10,8 @@ A networking resource in Azure
 
 * Azure provided
 * custom
+
+
+# Hub and Spoke model
+
+![alt hub and spoke](./img/hubandspoke.png)
