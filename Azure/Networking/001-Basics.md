@@ -20,3 +20,5 @@ resulted in too many wasted address
 * connects private net to public network and takes care of address translations
 
 ![image NAT](./img/nat.png)
+
+NAT basically works by assigning different ports to different connetions and tracking them
