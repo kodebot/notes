@@ -65,7 +65,7 @@ PIP can be assined to
         * NIC
         * Standard LB
         * App Gateways
-
+    - supports Availablilty Zones - can be Zone redundant or zonal
 
 # DNS
 
