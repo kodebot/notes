@@ -21,4 +21,4 @@ resulted in too many wasted address
 
 ![image NAT](./img/nat.png)
 
-NAT basically works by assigning different ports to different connetions and tracking them
+NAT basically works by assigning different ports to different connections and tracking them
