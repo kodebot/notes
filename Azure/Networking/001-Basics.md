@@ -61,6 +61,10 @@ PIP can be assined to
     - static by default
     - open for outbound
     - closed by default for inbound
+    - can be assinged to
+        * NIC
+        * Standard LB
+        * App Gateways
 
 
 # DNS
