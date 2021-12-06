@@ -37,7 +37,7 @@ Azure reserves 5 in each subnet
 * x.x.x.2 and 3 - used for DNS mapping
 * x.x.x.255 - broadcast address
 
-## Public IP
+## Public IP (PIP)
 
 Allows inbound and outbound access to internet
 
