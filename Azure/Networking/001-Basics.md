@@ -9,8 +9,18 @@ A networking resource in Azure
     * when you connect two that have same or overlapping range then you will have problems 😞
 * default OUT internet access
 * IN internet access can be achieved using public ip
+* can connect to other Azure resources
+* can connect to on-premise
+* traffic filter
+* routing
+* 2 VNETs can be connected to each other
 
+## IP Range
 
+* can use IP range defined in RFC1918 (10.0.0.0/16)
+* cannot use the following
+    - 224.0.0.0/4 (Multicast)
+    - 255.255.255.255/32 (Broadcast)
 
 # DNS
 
