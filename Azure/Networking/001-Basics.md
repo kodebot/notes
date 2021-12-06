@@ -43,6 +43,18 @@ Allows inbound and outbound access to internet
 
 without public IP, outbound connection are done using Network Address Transalation (NAT)
 
+PIP can be assined to 
+
+* VM NIC
+* pub load balancer
+* VPN and app gateway
+* Azure Firewall
+
+### SKU
+* basic
+* standard
+
+
 # DNS
 
 * Azure provided
