@@ -1,5 +1,7 @@
 # Classful address 
 
+Defines how net id and host ids are allocated
+
 ![image classful](./img/classful.png)
 
 
