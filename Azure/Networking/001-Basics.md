@@ -60,7 +60,7 @@ PIP can be assined to
     - preferred
     - static by default
     - open for outbound
-    - closed by default for inboud
+    - closed by default for inbound
 
 
 # DNS
