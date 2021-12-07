@@ -53,3 +53,6 @@ Simple option to connect two Hybrid VNETs
 
 * can't have overlapping IPS
 * S2S VPN gateway connection is a connection over *IPSec/IKE* (IKEv1 or v2) VPN tunnel
+* on-prem should have VPN device with PIP
+* can't be behind NAT
+* can be used for cross-premises and hybrid
