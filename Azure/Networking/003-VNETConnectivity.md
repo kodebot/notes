@@ -1,3 +1,3 @@
 # General
 
-![image topology](./img/azure-topoloy.png)
+![image topology](./img/azure-topology.png)
