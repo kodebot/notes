@@ -80,6 +80,9 @@ Dedicated route between on-prem and Azure
 
 [Reference](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
 
+* Layer 3 connectivity
+* connectivity in all regions
+
 # Gateway SKU
 
 [Get familiar](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways#gwsku)
