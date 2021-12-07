@@ -21,3 +21,6 @@ Three main types of topologies
 * cannot peer across the regions
     * i.e. VNET in Public Cloud region cannot be peered with China Cloud region
 
+* can use remote gateways or allow gateway transit
+    * in globally peered VNETs
+    * in locally peered VNETs
