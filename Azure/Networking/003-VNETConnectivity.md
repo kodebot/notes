@@ -81,7 +81,8 @@ Dedicated route between on-prem and Azure
 [Reference](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
 
 * Layer 3 connectivity
-* connectivity in all regions
+* connectivity in all geopolitical regions
+* connectivity in all regions with premium-addon
 
 # Gateway SKU
 
