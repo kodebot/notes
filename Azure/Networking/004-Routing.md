@@ -33,7 +33,7 @@ commonly used to
 * once the UDR is created, add routes then it needs to be associated to Subnet
     * when adding routes you choose
         * address prefix (address space)
-        * next-hop gateway
+        * next-hop address
 
 * can allow or disallow VNET gateway route propagation
     * useful when on-prem gateway exchanges BGP routes with Azure VNET gateway
