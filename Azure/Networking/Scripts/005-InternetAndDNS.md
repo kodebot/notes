@@ -24,3 +24,5 @@ Options
 * custom
     * Iaas VM with DNS
     * Infoblox Virtual Appliance
+
+Role instances are classic cloud service that offers Web Server (Web Role) and App Server (Worker Role) as PaaS. This is no longer recommended and will be retired in Aug 2204.
