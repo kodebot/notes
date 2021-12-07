@@ -4,7 +4,7 @@ Three main types of topologies
 
 * Hub and Spoke
 * Daisy Chain
-* Mess
+* Mesh
 
 
 ![image topology](./img/azure-topology.png)
