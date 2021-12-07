@@ -26,6 +26,7 @@ Three main types of topologies
 * no overlapping Address spaces
 * can't add or delete address range after peering is created
     * soulution is to deleting the peer make adjustments and recreate peer (DOWNTIME 😞)
+* can allow traffic to flow through gateway to remote VNET if the setting is enabled
 
 
 ![image hub-spoke-peering](./img/hub-spoke-peering.png)
