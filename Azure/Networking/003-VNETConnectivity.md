@@ -108,6 +108,22 @@ Dedicated route between on-prem and Azure
 
 [Reference](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-workflows)
 
+### Unlimited vs Metered
+
+Unlimited
+    * speed 50Mbps to 10Gbps
+    * unlimited inbound (to azure)
+    * unlimited outbound (from azure)
+    * higher monthly fee
+
+Metered
+    * speed 50Mbps to 10Gbps
+    * unlimited inbound (to azure)
+    * outbound charged at predetermined rate per GB
+    * generally lower monthly fee
+
+
+
 # Gateway SKU
 
 [Get familiar](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways#gwsku)
