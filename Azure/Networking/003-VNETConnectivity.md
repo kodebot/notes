@@ -123,7 +123,6 @@ Metered
 * generally lower monthly fee
 
 
-
 # Gateway
 
 Gateways are used to send encrypted traffic between two Networks. 
