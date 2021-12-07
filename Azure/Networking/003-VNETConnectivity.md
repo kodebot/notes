@@ -104,6 +104,8 @@ Dedicated route between on-prem and Azure
 
 ![image](./img/express-workflow.png)
 
+![image](./img/express-peering-data.png)
+
 [Reference](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-workflows)
 
 # Gateway SKU
