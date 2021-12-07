@@ -72,6 +72,12 @@ Connecting clients directly to the network
 * thourghput up to 100 Mbps (unpredictable due to internet)
 * Doesn't scale, recommended only for few workstations
 
+## Express Route
+
+Dedicated route between on-prem and Azure
+
+![image](./img/express.png)
+
 
 # Gateway SKU
 
