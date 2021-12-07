@@ -19,10 +19,15 @@ Every subnet in Azure has the following *System Routes*
 
 ![image](./img/subnet-routing.png)
 
-# User defined routing
+# User Defined Routing (UDR)
 
 Overrides the default system routing
 
 commonly used to
 * force tunneling
 * manage internet traffic on VMs
+
+
+![image](./img/user-defined-route.png)
+
+* once the UDR is created it needs to be associated to Subnet
