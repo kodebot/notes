@@ -30,7 +30,10 @@ commonly used to
 
 ![image](./img/user-defined-route.png)
 
-* once the UDR is created it needs to be associated to Subnet
+* once the UDR is created, add routes then it needs to be associated to Subnet
+    * when adding routes you choose
+        * address prefix (address space)
+        * next-hop gateway
 
 * can allow or disallow VNET gateway route propagation
     * useful when on-prem gateway exchanges BGP routes with Azure VNET gateway
