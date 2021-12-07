@@ -45,6 +45,7 @@ Generally used for on-perm to azure
 * Express Route
 * Point to Site (P2S)
 
+[Reference](https://docs.microsoft.com/en-us/azure/vpn-gateway/design)
 ## Site to Site
 
 Simple option to connect two Hybrid VNETs
