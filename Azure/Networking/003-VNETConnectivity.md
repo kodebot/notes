@@ -3,7 +3,7 @@
 Three main types of topologies
 
 * Hub and Spoke
-* Daisy Chain
+* Daisy Chain (possible via Gateway)
 * Mesh
 
 
