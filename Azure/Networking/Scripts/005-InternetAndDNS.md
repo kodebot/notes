@@ -30,7 +30,11 @@ Role instances are classic cloud service that offers Web Server (Web Role) and A
 
 ## DNS Scenarios and Recos
 
-* name resolution between role instances or VMs in same VNET, the use
+* name resolution between role instances or VMs in SAME VNET, the use
     * Azure DNS or
     * Azure DNS Private Zones
+    
+* name resolution between role instances or VMs in DIFFERENT VNET, the use
+    * Azure DNS Private Zones or 
+    * customer managed DNS servers
     
