@@ -9,7 +9,14 @@ $subnet2 = New-AzVirtualNetworkSubnetConfig -Name "temp-mani-subnet2" -AddressPr
 
 New-AzResourceGroup -Name $rg -Location $location
 
-New-AzVirtualNetwork -Name $vnetName -Location $loccation -ResourceGroupName $rg -AddressPrefix $vnetAddressSpace -Subnet $subnet1,$subnet2
+New-AzVirtualNetwork -Name $vnetName -Location $location -ResourceGroupName $rg -AddressPrefix $vnetAddressSpace -Subnet $subnet1,$subnet2
+
+
+# add more subnets after creating VNET
+
+$subnet3 = New-AzVirtualNetworkSubnetConfig -Name "temp-mani-subnet3" -AddressPrefix "10.0.3.0/24"
+
+
 
 # remove
  Remove-AzResourceGroup -Name $rg
