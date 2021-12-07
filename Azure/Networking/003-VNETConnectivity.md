@@ -126,6 +126,14 @@ Metered
 
 
 
-# Gateway SKU
+# Gateway
+
+Gateways are used to send encrypted traffic between two Networks. 
+In Azure, 
+* it can be between VNETs
+* or between VNET and On-Premises Network
+
+
+## SKU
 
 [Get familiar](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways#gwsku)
