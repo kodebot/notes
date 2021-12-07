@@ -37,3 +37,7 @@ Three main types of topologies
 
 [Ref](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
 
+# Hybrid Connectivity
+
+* Site to Site (S2s)
+* Express Route
