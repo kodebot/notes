@@ -25,4 +25,4 @@ Three main types of topologies
     * in locally peered VNETs
 * no overlapping Address spaces
 * can't add or delete address range after peering is created
-    * soulution is to deleting the peer make adjustments and recreate peer (DOWNTIME)
+    * soulution is to deleting the peer make adjustments and recreate peer (DOWNTIME 😞)
