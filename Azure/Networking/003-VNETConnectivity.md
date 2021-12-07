@@ -82,7 +82,7 @@ Dedicated route between on-prem and Azure
 
 * Layer 3 connectivity
 * connectivity in all geopolitical regions
-* connectivity in all regions with premium-addon
+* connectivity in all regions with premium add-on
 
 # Gateway SKU
 
