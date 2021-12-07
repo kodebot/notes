@@ -26,3 +26,11 @@ Options
     * Infoblox Virtual Appliance
 
 Role instances are classic cloud service that offers Web Server (Web Role) and App Server (Worker Role) as PaaS. This is no longer recommended and will be retired in Aug 2204, alternative is Cloud Services (extended support).
+
+
+## DNS Scenarios and Recos
+
+* name resolution between role instances or VMs in same VNET, the use
+    * Azure DNS or
+    * Azure DNS Private Zones
+    
