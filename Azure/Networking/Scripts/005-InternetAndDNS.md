@@ -45,3 +45,20 @@ Role instances are classic cloud service that offers Web Server (Web Role) and A
     * customer managed forwarding queries to Azure for name resolution
 
 [References](https://docs.microsoft.com/en-gb/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
+
+
+* in the DNS servers section of VNET in the portal, you can set the custom DNS server
+    * VMs in the network need restarting to use new DNS server
+
+## Private DNS
+
+Private DNS is private alternative to azure provided default (internet faced and Microsoft managed) and Customer managed.
+
+* create Private Zone
+* add Virtual network link - for the VNET
+    * make sure to turn on Enable auto registration (this ensures VMs are auto registered with DNS when they are added)
+
+Change Firewall in windows to allow ICMPv4 (ping) (Internet Control Message protocol)
+```
+   New-NetFirewallRule -DisplayName "Allow ICMPv4-In" -Protocol ICMPv4 
+```
