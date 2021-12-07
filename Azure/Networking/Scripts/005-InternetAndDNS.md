@@ -50,7 +50,7 @@ Role instances are classic cloud service that offers Web Server (Web Role) and A
 * in the DNS servers section of VNET in the portal, you can set the custom DNS server
     * VMs in the network need restarting to use new DNS server
 
-## Private DNS
+## Private Zone
 
 Private DNS is private alternative to azure provided default (internet faced and Microsoft managed) and Customer managed.
 
@@ -62,3 +62,9 @@ Change Firewall in windows to allow ICMPv4 (ping) (Internet Control Message prot
 ```
    New-NetFirewallRule -DisplayName "Allow ICMPv4-In" -Protocol ICMPv4 
 ```
+
+## Public Zone
+
+used to host the DNS records for a particular domain.
+
+Once created, the nameservers need to be updated in domain name registrar like godaddy
