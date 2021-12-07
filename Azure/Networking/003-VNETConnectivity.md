@@ -78,6 +78,7 @@ Dedicated route between on-prem and Azure
 
 ![image](./img/express.png)
 
+[Reference](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
 
 # Gateway SKU
 
