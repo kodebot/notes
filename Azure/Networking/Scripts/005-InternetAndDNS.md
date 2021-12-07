@@ -6,3 +6,8 @@
     * routes
     * traffic filtering
 * inbound connectivity without SNAT requires PIP
+
+## Options for inbound internet access
+
+* add PIP to the service (not recommended)
+*
