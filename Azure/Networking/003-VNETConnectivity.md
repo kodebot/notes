@@ -71,3 +71,8 @@ Connecting clients directly to the network
 * Windows 7, 8, 8.1, 10, 2008 R2, 2021, 2012 R2 64 bit are supported
 * thourghput up to 100 Mbps (unpredictable due to internet)
 * Doesn't scale, recommended only for few workstations
+
+
+# Gateway SKU
+
+[Get familiar](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways#gwsku)
