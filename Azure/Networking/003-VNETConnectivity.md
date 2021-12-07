@@ -97,7 +97,10 @@ Dedicated route between on-prem and Azure
         * bandwidth
         * billing model
         * standard or premium add-on
-
+    * provide service key (s-key) to provider
+    * provide other info like VPN ID to provider
+    * link VNETs to Azure private peering
+    * start using!
 
 # Gateway SKU
 
