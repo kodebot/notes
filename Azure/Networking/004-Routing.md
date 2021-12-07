@@ -31,3 +31,8 @@ commonly used to
 ![image](./img/user-defined-route.png)
 
 * once the UDR is created it needs to be associated to Subnet
+
+* can allow or disallow VNET gateway route propagation
+    * useful when on-prem gateway exchanges BGP routes with Azure VNET gateway
+        * one route entry added for each propagated routes
+        * recommeded to summarise the routes to largest address space to reduce the entries
