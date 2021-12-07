@@ -43,3 +43,5 @@ Role instances are classic cloud service that offers Web Server (Web Role) and A
 
 * resolution of Azure hostnames from on-premises
     * customer managed forwarding queries to Azure for name resolution
+
+[References](https://docs.microsoft.com/en-gb/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
