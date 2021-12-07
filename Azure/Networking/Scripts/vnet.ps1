@@ -9,7 +9,7 @@ $subnet2 = New-AzVirtualNetworkSubnetConfig -Name "temp-mani-subnet2" -AddressPr
 
 New-AzResourceGroup -Name $rg -Location $location
 
-New-AzVirtualNetwork -Name $ventName -Location $loccation -ResourceGroupName $rg -AddressPrefix $vnetAddressSpace -Subnet $subnet1,$subnet2
+New-AzVirtualNetwork -Name $vnetName -Location $loccation -ResourceGroupName $rg -AddressPrefix $vnetAddressSpace -Subnet $subnet1,$subnet2
 
 # remove
-# Remove-AzResourceGroup -Name $rg
+ Remove-AzResourceGroup -Name $rg
