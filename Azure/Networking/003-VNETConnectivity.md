@@ -56,3 +56,9 @@ Simple option to connect two Hybrid VNETs
 * on-prem should have VPN device with PIP
 * can't be behind NAT
 * can be used for cross-premises and hybrid
+
+## Point to Site
+
+Connecting clients directly to the network
+
+![image](./img/p2s.png)
