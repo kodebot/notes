@@ -18,3 +18,11 @@ Every subnet in Azure has the following *System Routes*
 
 
 ![image](./img/subnet-routing.png)
+
+# User defined routing
+
+Overrides the default system routing
+
+commonly used to
+* force tunneling
+* manage internet traffic on VMs
