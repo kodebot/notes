@@ -10,4 +10,4 @@
 ## Options for inbound internet access
 
 * add PIP to the service (not recommended)
-*
+* LB with PIP and services behind it
