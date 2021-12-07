@@ -5,3 +5,4 @@
 * outbound traffics can be restricted via
     * routes
     * traffic filtering
+* inbound connectivity without SNAT requires PIP
