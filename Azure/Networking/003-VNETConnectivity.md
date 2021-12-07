@@ -104,6 +104,8 @@ Dedicated route between on-prem and Azure
 
 ![image](./img/express-workflow.png)
 
+[Reference](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-workflows)
+
 # Gateway SKU
 
 [Get familiar](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways#gwsku)
