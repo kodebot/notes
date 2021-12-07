@@ -50,3 +50,6 @@ Generally used for on-perm to azure
 Simple option to connect two Hybrid VNETs
 
 ![image](./img/s2s.png)
+
+* can't have overlapping IPS
+* S2S VPN gateway connection is a connection over *IPSec/IKE* (IKEv1 or v2) VPN tunnel
