@@ -14,3 +14,13 @@
 * Use NVA with PIP
 
 > Network Virtual Appliance (NVA) are often full linux VM with primary foucus on Network functions virtualisations
+
+# DNS
+
+Domain Name System (DNS) is used for name resolutions
+
+Options
+* Azure provided
+* custom
+    * Iaas VM with DNS
+    * Infoblox Virtual Appliance
