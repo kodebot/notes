@@ -29,3 +29,6 @@ Three main types of topologies
 
 
 ![image hub-spoke-peering](./img/hub-spoke-peering.png)
+
+[Ref](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
+
