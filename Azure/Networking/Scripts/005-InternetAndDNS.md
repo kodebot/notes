@@ -11,6 +11,6 @@
 
 * add PIP to the service (not recommended)
 * LB with PIP and services behind it
-
+* Use NVA with PIP
 
 > Network Virtual Appliance (NVA) are often full linux VM with primary foucus on Network functions virtualisations
