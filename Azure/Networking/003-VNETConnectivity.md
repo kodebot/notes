@@ -47,4 +47,6 @@ Generally used for on-perm to azure
 
 ## Site to Site
 
+Simple option to connect two Hybrid VNETs
+
 ![image](./img/s2s.png)
