@@ -84,6 +84,20 @@ Dedicated route between on-prem and Azure
 * connectivity in all geopolitical regions
 * connectivity in all regions with premium add-on
 * dynamic routing between on-prem and azure using Border Control Protocal(BGP)
+* built-in redundancy
+    * in every peering point hw is redundant
+
+* provisioning may take many months
+    * get azure sub
+    * find express route provider partner
+    * establish connection with provider
+    * order express route circuit from Microsoft with the following settings
+        * service provider
+        * peering location
+        * bandwidth
+        * billing model
+        * standard or premium add-on
+
 
 # Gateway SKU
 
