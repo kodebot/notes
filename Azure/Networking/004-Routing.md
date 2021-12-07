@@ -13,3 +13,6 @@ Every subnet in Azure has the following *System Routes*
     * VNet Gateway is the next-hop address
 
 * Internet
+
+
+![image](./img/subnet-routing.png)
