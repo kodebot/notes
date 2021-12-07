@@ -62,3 +62,5 @@ Simple option to connect two Hybrid VNETs
 Connecting clients directly to the network
 
 ![image](./img/p2s.png)
+
+* generally used in conjuction with Jumpbox
