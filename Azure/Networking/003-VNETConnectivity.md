@@ -12,7 +12,7 @@ Three main types of topologies
 * can be in same or different supported Azure region
 * can be in diff subs
 * bandwidth will be same if 2 VNETs are in same region as if they are part of same network 
-    *i.e. no extra bandwith if 2 VNETs are part of same region
+    * i.e. no extra bandwith if 2 VNETs are part of same region
 * across region uses Azure backbone
 * global peering can exist in 
     * Azure public cloud region
