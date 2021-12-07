@@ -39,5 +39,12 @@ Three main types of topologies
 
 # Hybrid Connectivity
 
+Generally used for on-perm to azure
+
 * Site to Site (S2s)
 * Express Route
+* Point to Site (P2S)
+
+## Site to Site
+
+![image](./img/s2s.png)
