@@ -110,18 +110,17 @@ Dedicated route between on-prem and Azure
 
 ### Unlimited vs Metered
 
-*Unlimited*
-
-    * speed 50Mbps to 10Gbps
-    * unlimited inbound (to azure)
-    * unlimited outbound (from azure)
-    * higher monthly fee
+Unlimited
+* speed 50Mbps to 10Gbps
+* unlimited inbound (to azure)
+* unlimited outbound (from azure)
+* higher monthly fee
 
 Metered
-    * speed 50Mbps to 10Gbps
-    * unlimited inbound (to azure)
-    * outbound charged at predetermined rate per GB
-    * generally lower monthly fee
+* speed 50Mbps to 10Gbps
+* unlimited inbound (to azure)
+* outbound charged at predetermined rate per GB
+* generally lower monthly fee
 
 
 
