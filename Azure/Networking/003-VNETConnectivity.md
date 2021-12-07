@@ -102,6 +102,8 @@ Dedicated route between on-prem and Azure
     * link VNETs to Azure private peering
     * start using!
 
+![image](./img/express-workflow.png)
+
 # Gateway SKU
 
 [Get familiar](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways#gwsku)
