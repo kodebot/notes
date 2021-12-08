@@ -61,3 +61,6 @@ Unique physical location within an Azure region connected with high speed networ
 * zone redundant services - PaaS like database, etc..
 
 > Not available in all the regions - if not available use Availablity Set
+
+Availablity set is to protect app from hw failure with Azure Datacenter failure
+Availabilty Zone is to protect app from complete Azrue Dataceter failure
