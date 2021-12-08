@@ -47,3 +47,5 @@ rather than creating an availability set for all tiers of an app (web, app, db),
 ## Availabilty Zones
 
 Unique physical location within an Azure region
+
+![image fault domain](./img/availability-zones.png)
