@@ -15,6 +15,8 @@ potential for VM impact
     * update domain
 
 
+once availabliltity set is created, it can't be changed. VMs need to be recreated to change
+
 ### fault domain (FD)
 
 think of this as rack in MS datacenter, it has
