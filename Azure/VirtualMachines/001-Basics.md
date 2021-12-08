@@ -45,4 +45,7 @@ the VM series name can combine multiple codes too
 
 for example 
 * A2m_v2 - is a A series but configured with large memory
-* H16mr - is H instance that supports Remote Direct Memory Access (R)
+* H16mr - is H instance that supports Remote Direct Memory Access ( from R instance)
+
+
+![image VM Specialisation](./img/vm-specialisation.png)
