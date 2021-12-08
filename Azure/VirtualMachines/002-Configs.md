@@ -8,10 +8,11 @@ Supported Extensions
 * puppet - enterprise grade
 * CHEF - enterprice grade
 * Powershell (DSC) - simple and easy to use, reco for small scale
+* Custom Script
 
 Powershell DSC config can be ported to puppet or CHEF
 
-## Powershell DSC
+## Powershell DSC Extension
 
 Three major components
 * configuration - declartive powershell config
@@ -54,3 +55,12 @@ In VM, under extenstions, choose Powershell DSC extension
 
 Module qualified name => <filename>\<configname>
 iis.ps1\KodebotWebsite
+
+## Custom Script Extension
+
+* execute VM task without logging into the VM
+* upload via portal or download script from Azure blob storate or Github
+* can be automated using powershell
+* no need for accessible IP to run the script
+* ⬇️ must be enabled for each vm
+* ⬇️ relatively slow
