@@ -1,4 +1,4 @@
-# VM Scale Set
+# VM Scale Set (VMSS)
 
 *Scale Horizontally*
 
