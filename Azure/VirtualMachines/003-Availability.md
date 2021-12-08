@@ -35,3 +35,7 @@ think of this as individual physical machine in the rack
 * patching windows, etc...
 
 ![image fault domain](./img/fault-update-domain.png)
+
+### planning
+
+rather than creating an availability set for all tiers of an app (web, service, db), create one for each tier
