@@ -1,3 +1,3 @@
 # VM Scale Set
 
-Scale Horizontally
+*Scale Horizontally*
