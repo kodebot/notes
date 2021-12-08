@@ -52,3 +52,8 @@ Unique physical location within an Azure region connected with high speed networ
 
 
 * offers 99.99% VM uptime SLA
+* combination of fault domain and update domain by default
+* zonal services - VM pinned to a particular zone
+* zone redundant services - PaaS like database, etc..
+
+> Not available in all the regions - if not available use Availablity Set
