@@ -24,4 +24,6 @@ think of this as rack in MS datacenter, it has
 
 ![image fault domain](./img/fault-domain.png)
 
-if we put 3 machines in an availability set then each of those will be deployed on independant FDs
+if we put 3 machines in an availability set in region that support availability set of 3 nodes
+* then each of those will be deployed on independant FDs
+* if we put 6 then each FD will have 2 machines
