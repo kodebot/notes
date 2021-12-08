@@ -38,4 +38,8 @@ think of this as individual physical machine in the rack
 
 ### planning
 
-rather than creating an availability set for all tiers of an app (web, service, db), create one for each tier
+rather than creating an availability set for all tiers of an app (web, app, db), create one for each tier
+
+* web tier avaialblity set
+* app tier
+* db tier
