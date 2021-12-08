@@ -42,3 +42,10 @@ Configuration KodebotWebsite # Cofig name
 }
 
 ```
+
+prep
+
+```
+    Publish-AzureRmVMDscConfiguration `
+    -ConfigurationPath .\iis.ps1 -OutputArchivePath .\installiis.zip
+```
