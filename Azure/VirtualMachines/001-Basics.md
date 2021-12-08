@@ -10,7 +10,7 @@ Vmware - Vspear
 Microsoft - Hypervisor
 
 
-# VM Types
+## VM Types
 
 * A - Basic - for test and dev
 * A - Standard - Gen purpose
@@ -39,7 +39,7 @@ Microsoft - Hypervisor
 
 [Reference](https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machines/4-determine-virtual-machine-sizing)
 
-# VM Specialisation
+## VM Specialisation
 
 the VM series name can combine multiple codes too
 
