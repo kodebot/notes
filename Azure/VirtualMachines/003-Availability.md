@@ -24,6 +24,8 @@ think of this as rack in MS datacenter, it has
 * network
 * hypervisor hosts
 
+fault domains start at 0. so, when we see Fault Domains: 2, it actually means there are 3 domains
+
 ![image fault domain](./img/fault-domain.png)
 
 if we put 3 machines in an availability set in region that support availability set of 3 nodes
