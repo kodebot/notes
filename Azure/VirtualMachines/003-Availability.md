@@ -43,3 +43,7 @@ rather than creating an availability set for all tiers of an app (web, app, db),
 * web tier avaialblity set
 * app tier
 * db tier
+
+## Availabilty Zones
+
+Unique physical location within an Azure region
