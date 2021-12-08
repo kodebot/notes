@@ -87,3 +87,9 @@ By default Azure provides marketplace images when crating VMs.
 
 Custom image can be created to suit tailor made scenrios for the business
 
+Process
+* Prep
+    * Windows - sysprep - run c:\windows\system32\sysprep.exe
+    * Linux - sudo waagent - deprovision+user
+* Generalise in Azure
+* Create Image
