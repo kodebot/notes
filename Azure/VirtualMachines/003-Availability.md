@@ -13,3 +13,14 @@ potential for VM impact
 * separate based on 
     * fault domain
     * update domain
+
+
+### fault domain
+
+think of this as rack in MS datacenter, it has
+* its own power
+* network
+* hypervisor hosts
+
+
+![image fault domain](./img/fault-domain.png)
