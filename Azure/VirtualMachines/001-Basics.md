@@ -36,3 +36,13 @@ Microsoft - Hypervisor
 * N - GPU enabled (NVIDA)
 
 * SAP HANA on Azure Certified instance - purpose built and certified for running SAP HANA
+
+[Reference](https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machines/4-determine-virtual-machine-sizing)
+
+# VM Specialisation
+
+the VM series name can combine multiple codes too
+
+for example 
+* A2m_v2 - is a A series but configured with large memory
+* H16mr - is H instance that supports Remote Direct Memory Access (R)
