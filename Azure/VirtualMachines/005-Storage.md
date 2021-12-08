@@ -1,0 +1,2 @@
+# VM Storge Types
+
