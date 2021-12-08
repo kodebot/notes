@@ -12,3 +12,33 @@ Supported Extensions
 Powershell DSC config can be ported to puppet or CHEF
 
 ## Powershell DSC
+
+Three major components
+* configuration - declartive powershell config
+* resources - 
+* logical config manager - engine behind Powershell DSC
+
+example
+
+```
+Configuration KodebotWebsite
+{
+    Note 'localhost'
+    {
+        # Install IIS - enable via window feature
+        WindowsFeature IIS
+        {
+            Ensure="Present"
+            Name="Web-Server"
+        }
+
+        # Install ASP.NET 4.5
+        WindowsFeature ASP
+        {
+            Ensure="Present"
+            Name="Web-Asp-Net45"
+        }
+    }
+}
+
+```
