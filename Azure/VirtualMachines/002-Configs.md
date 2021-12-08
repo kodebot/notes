@@ -21,9 +21,9 @@ Three major components
 example
 
 ```
-Configuration KodebotWebsite
+Configuration KodebotWebsite # Cofig name
 {
-    Note 'localhost'
+    Note 'localhost' # target
     {
         # Install IIS - enable via window feature
         WindowsFeature IIS
