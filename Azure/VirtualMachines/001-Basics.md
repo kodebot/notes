@@ -65,6 +65,7 @@ MS created this because it was difficult to express how fast a VM is going to be
 
 ## Supported OS and Distro
 
+[Windows Support](https://docs.microsoft.com/en-GB/troubleshoot/azure/virtual-machines/server-software-support)
 
 [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview)
 [Liux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/overview)
