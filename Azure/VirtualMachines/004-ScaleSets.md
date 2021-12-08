@@ -24,4 +24,5 @@ Need to have min of 2 at least for availability
 | Scenario | Manual Group | VMSS |
 |--         |--             |--     |
 |add new | manually create| automatically create from central config|
-|traffic balacnce and
+|traffic balacnce 
+and distribution
