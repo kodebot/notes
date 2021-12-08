@@ -62,3 +62,9 @@ for example
 MS created this because it was difficult to express how fast a VM is going to be compared to another VM
 
 [More Info](https://docs.microsoft.com/en-gb/azure/virtual-machines/acu)
+
+## Supported OS and Distro
+
+
+[Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview)
+[Liux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/overview)
