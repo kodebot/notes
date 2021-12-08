@@ -14,5 +14,13 @@ Microsoft - Hypervisor
 
 * A - Basic - for test and dev
 * A - Standard - Gen purpose
+
 * B - Burstable - burst to full capacity of the VM when needed (built credits and use that to burst)
+
 * D - General Purpose (used most often) - for enterprice apps. DS offers premium storage
+
+* DC - General Purpose secure - used for fraud detection, blockchain, AML, etc..
+
+* E - Memory Optimised - high mem to cpu ratio. ES offers premium storage
+
+* F - CPU optimised - high CPU core to mem ratio. FS offers Premium storage
