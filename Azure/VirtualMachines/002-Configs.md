@@ -49,3 +49,8 @@ prep
     Publish-AzureRmVMDscConfiguration `
     -ConfigurationPath .\iis.ps1 -OutputArchivePath .\installiis.zip
 ```
+
+In VM, under extenstions, choose Powershell DSC extension
+
+Module qualified name => <filename>\<configname>
+iis.ps1\KodebotWebsite
