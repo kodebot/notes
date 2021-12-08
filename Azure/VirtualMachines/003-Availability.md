@@ -46,6 +46,9 @@ rather than creating an availability set for all tiers of an app (web, app, db),
 
 ## Availabilty Zones
 
-Unique physical location within an Azure region
+Unique physical location within an Azure region connected with high speed network
 
 ![image fault domain](./img/availability-zones.png)
+
+
+* offers 99.99% VM uptime SLA
