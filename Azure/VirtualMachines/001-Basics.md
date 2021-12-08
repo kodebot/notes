@@ -80,3 +80,6 @@ MS created this because it was difficult to express how fast a VM is going to be
 NSG 
 * can be attached to the subnet of the VM 
 * can be attached directly to the NIC of the VM
+
+## VM Images
+
