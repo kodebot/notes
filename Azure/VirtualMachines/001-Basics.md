@@ -69,3 +69,14 @@ MS created this because it was difficult to express how fast a VM is going to be
 
 [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview)
 [Liux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/overview)
+
+## Limitations
+
+* some instances will be available in certain regions but not in others
+* there are some restricted usernames [more](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/faq#what-are-the-username-requirements-when-creating-a-vm-)
+
+## Security
+
+NSG 
+* can be attached to the subnet of the VM 
+* can be attached directly to the NIC of the VM
