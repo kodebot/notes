@@ -15,12 +15,13 @@ potential for VM impact
     * update domain
 
 
-### fault domain
+### fault domain (FD)
 
 think of this as rack in MS datacenter, it has
 * its own power
 * network
 * hypervisor hosts
 
-
 ![image fault domain](./img/fault-domain.png)
+
+if we put 3 machines in an availability set then each of those will be deployed on independant FDs
