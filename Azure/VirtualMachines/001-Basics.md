@@ -51,3 +51,14 @@ for example
 ![image VM Specialisation](./img/vm-specialisation.png)
 
 [More Info](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/)
+
+## Azure Compute Unit (ACU)
+
+* way to compare CPU perf between diff types/sizes of VM
+* MS created benchmark
+* A VM with 200 ACU has twice the perf of a VM with 100 ACU
+
+
+MS created this because it was difficult to express how fast a VM is going to be compared to another VM
+
+[More Info](https://docs.microsoft.com/en-gb/azure/virtual-machines/acu)
