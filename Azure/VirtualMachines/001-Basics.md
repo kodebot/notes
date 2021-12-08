@@ -49,3 +49,5 @@ for example
 
 
 ![image VM Specialisation](./img/vm-specialisation.png)
+
+[More Info](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/)
