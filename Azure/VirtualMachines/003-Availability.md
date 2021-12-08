@@ -27,3 +27,11 @@ think of this as rack in MS datacenter, it has
 if we put 3 machines in an availability set in region that support availability set of 3 nodes
 * then each of those will be deployed on independant FDs
 * if we put 6 then each FD will have 2 machines
+
+### update domain (UD)
+
+think of this as individual physical machine in the rack
+
+* patching windows, etc...
+
+![image fault domain](./img/fault-update-domain.png)
