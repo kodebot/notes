@@ -20,7 +20,7 @@ Three major components
 
 example
 
-```
+``` iis.ps1
 Configuration KodebotWebsite # Cofig name
 {
     Note 'localhost' # target
