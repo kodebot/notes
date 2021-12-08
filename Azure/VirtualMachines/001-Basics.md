@@ -24,3 +24,15 @@ Microsoft - Hypervisor
 * E - Memory Optimised - high mem to cpu ratio. ES offers premium storage
 
 * F - CPU optimised - high CPU core to mem ratio. FS offers Premium storage
+
+* G - Godzilla - very large instance used for databases and big data use cases
+
+* H - High Performance compute instances - for molecular modelling and scientific applications
+
+* L - Storage optimised - higher disk throughput and IO
+
+* M - Large Memory - Another large mem instance but it is huge one - upto 3.5 TB or RAM ( Microsoft is keep increasing it)o
+
+* N - GPU enabled (NVIDA)
+
+* SAP HANA on Azure Certified instance - purpose built and certified for running SAP HANA
