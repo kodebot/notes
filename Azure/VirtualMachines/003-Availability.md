@@ -6,3 +6,10 @@ potential for VM impact
 * planned maintenance
 * unplanned maintenance
 * unexpected downtime (outage)
+
+## Availablity Sets
+
+* group two more more in a set
+* separate based on 
+    * fault domain
+    * update domain
