@@ -83,3 +83,7 @@ NSG
 
 ## VM Images
 
+By default Azure provides marketplace images when crating VMs.
+
+Custom image can be created to suit tailor made scenrios for the business
+
