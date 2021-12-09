@@ -1,5 +1,7 @@
 # Azure AD Identity Protection
 
+protects against attacks ( need P2 license)
+
 * majority of attacks take place when user account is compromised
 * available for all AD pricing tiers
 * report alerts are generated based on adaptive ML algo
