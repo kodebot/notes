@@ -30,8 +30,15 @@ protects against attacks ( need P2 license)
     * readonly access to ID protetion
     * ⬇️ can't onboard, remediate users, configure policies and reset pwd
 
-## Conditional access
+## Conditional access policies
 
 * define named locaitons to access
 * terms of use - make user to accept terms of use
+
+* there are some base line policies
+    * for example - policy : Required MFA for admins require MFA for following roles
+        * Global Admin
+        * Exchange Admin
+        * Conditional Access Admin
+        * etc...
 
