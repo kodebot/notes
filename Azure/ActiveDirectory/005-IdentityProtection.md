@@ -12,3 +12,16 @@
     * policy to mititgate risk signin
     * policy to block or secure risky accounts
     * policy to requrie MFA
+
+
+## Identity Protection Roles
+
+* Global Admin
+    * full access to ID protection
+    * onboard identity protection
+
+* security admin
+    * full access to ID protection
+
+* security reader
+    * readonly access to ID protetion
