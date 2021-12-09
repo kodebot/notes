@@ -22,6 +22,6 @@ Options
 
 ## AADDS
 
-* managed Domain Service
+* managed Domain Service (PaaS)
 * allow domain services without need to patch and maintain on IaaS (MS managed)
 * allow domain join, Group Policy, LDAP, Kerberos and NTLM 
