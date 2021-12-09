@@ -42,3 +42,4 @@ protects against attacks ( need P2 license)
         * Conditional Access Admin
         * etc...
 
+* What If panel to see what happens when user login user certiain conditions
