@@ -21,3 +21,7 @@ Options
 * traditional LDAP and Kerberos functionality
 
 ## AADDS
+
+* managed Domain Service
+* allow domain services without need to patch and maintain on IaaS (MS managed)
+* allow domain join, Group Policy, LDAP, Kerberos, NTLM 
