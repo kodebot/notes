@@ -26,3 +26,10 @@ Options
 * allow domain services without need to patch and maintain on IaaS (MS managed)
 * allow domain join, Group Policy, LDAP, Kerberos and NTLM 
 
+
+## Azure AD Features
+
+* enterprise identity solution
+* single sign-on
+* multifactor auth (MFA)
+* self-service ( password reset, request access to apps, etc...)
