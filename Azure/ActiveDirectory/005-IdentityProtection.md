@@ -33,5 +33,5 @@ protects against attacks ( need P2 license)
 ## Conditional access
 
 * define named locaitons to access
-* terms of use - make user to accept term of use
+* terms of use - make user to accept terms of use
 
