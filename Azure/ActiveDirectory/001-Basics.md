@@ -15,3 +15,9 @@ Options
 * Can sync with on-prem
 
 ## ADDS 
+
+* windows server with Active Directory role installed on it (usually on VM)
+* legacy since Windows 2000
+* traditional LDAP and Kerberos functionality
+
+## AADDS
