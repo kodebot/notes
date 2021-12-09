@@ -22,6 +22,8 @@
 
 * security admin
     * full access to ID protection
+    * ⬇️ can't onboard, reset password for user
 
 * security reader
     * readonly access to ID protetion
+    * ⬇️ can't onboard, remediate users, configure policies and reset pwd
