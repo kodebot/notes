@@ -14,7 +14,7 @@
     * policy to requrie MFA
 
 
-## Identity Protection Roles
+## Identity Protection Roles (out of the box)
 
 * Global Admin
     * full access to ID protection
