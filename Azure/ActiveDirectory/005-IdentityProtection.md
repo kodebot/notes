@@ -29,3 +29,9 @@ protects against attacks ( need P2 license)
 * security reader
     * readonly access to ID protetion
     * ⬇️ can't onboard, remediate users, configure policies and reset pwd
+
+## Conditional access
+
+* define named locaitons to access
+* terms of use - make user to accept term of use
+
