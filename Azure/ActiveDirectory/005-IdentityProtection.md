@@ -10,5 +10,5 @@
 * investigate (with contextual info)
 * risk based conditional access policy
     * policy to mititgate risk signin
-    * policy  to block or secure risky accounts
+    * policy to block or secure risky accounts
     * policy to requrie MFA
