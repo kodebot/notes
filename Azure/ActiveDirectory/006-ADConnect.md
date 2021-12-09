@@ -24,4 +24,5 @@ includes the following components
             * and windows 10 computers
     * filter can be changed based on props like domain, org units, etc...
 * pwd hash sync
-    * 
+    * sync pwd hash from on-premises AD to Azure AD
+        * so end user user can use same pwd in on-premises and the cloud
