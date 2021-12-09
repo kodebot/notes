@@ -30,7 +30,7 @@ protects against attacks ( need P2 license)
     * readonly access to ID protetion
     * ⬇️ can't onboard, remediate users, configure policies and reset pwd
 
-## Conditional access policies
+## Conditional access policies (part of Azure AD but some features need Identity Protection)
 
 * define named locaitons to access
 * terms of use - make user to accept terms of use
