@@ -1,5 +1,7 @@
 # Azure Monitoring
 
+Under Monitor blade
+
 How it works in Azure?
 
 * Monitor and Visualize Metrics
