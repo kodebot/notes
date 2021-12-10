@@ -17,4 +17,4 @@ Key features
 
 ![image log analytics architecture](./img/log-analytics-arch.png)
 
- 
+* Solutions can be third party (Marketplace available) 
