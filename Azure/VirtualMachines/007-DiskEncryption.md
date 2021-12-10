@@ -41,5 +41,5 @@ Different from storage encryption from Azure. This is encryption of disks at OS 
     * Connectivity to KeyVault
         * KeyVault enalbed for encryption
     * Connectivity to Azure Storage
-    * 
 
+![image Disk Encryption](./img/disk-encryption.png)
