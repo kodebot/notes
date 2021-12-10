@@ -61,6 +61,6 @@ perf
 * heartbeat
 
 ```kql
-heartbeat | where Computer == "<name>"
+heartbeat | where Computer == "<name>" | where TimeGenerated > ago(1h)
 ```
 
