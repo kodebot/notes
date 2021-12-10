@@ -18,3 +18,20 @@ Key features
 ![image log analytics architecture](./img/log-analytics-arch.png)
 
 * Solutions can be third party (Marketplace available) 
+
+* Some datasources
+    * Custom Logs - <LogName>_CL
+    * Event Logs  - Event
+    * Win Perf Counter - Perf
+    * Linux Perf Counter - Perf
+    * IIS Logs - W3CIISLog
+    * Syslog - Syslog
+
+
+
+## Search query fundamentals
+
+* start with source table (i.e. Event)
+* follow with a series of operators
+* separate additional operations using pipe |
+* join other tables and workspaces using `union`
