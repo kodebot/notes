@@ -35,4 +35,10 @@ How it works in Azure?
         * Webhook
         * ITSM (create indident ticket using ITSM connector)
         * Automation Runbook
+            * there are predefiend runbooks like
+                * restart vm
+                * stop vm
+                * scale up or down
+                * remove
+
 
