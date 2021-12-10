@@ -5,6 +5,9 @@
 
 
 Role includes one or more `Action` and `NotAction`
+    * write enable PUT, POST, PATCH and DELETE
+    * read enables get
+
 
 buit-in roles
 * owner
@@ -25,3 +28,9 @@ buit-in roles
     * and many others
 
 [more](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
+
+Get latest roles using PS command
+
+```ps1
+Get-AzureRMRoleDefinition
+```
