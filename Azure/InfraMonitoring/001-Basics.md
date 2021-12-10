@@ -58,6 +58,9 @@ we can enable guest level logs.
 * go to VM
 * choose Diagnostic logs under Monitoring
 * enable guest level monitoring
+    * choose storage account to store the logs
+
+Once this is done, we can see additional metrics in Monitor
 
 
 
