@@ -8,3 +8,5 @@ Key features
     * can plug-in Security center, App Insights, etc..
 * Search Queries
 * Several Output Options
+
+![image log analytics use cases](./img/log-analytics-use-cases.png)
