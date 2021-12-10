@@ -61,6 +61,9 @@ example custom role json
     ],
     "NotActions":[
 
+    ],
+    "AssingableScopes":[
+        "/subscriptions/<subid>
     ]
 }
 ```
