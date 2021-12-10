@@ -20,3 +20,5 @@ buit-in roles
     * Back Operator
     * Backup Reader
     * and many others
+
+[more](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
