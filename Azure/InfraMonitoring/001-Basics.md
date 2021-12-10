@@ -1,6 +1,6 @@
 # Azure Monitoring
 
-Under Monitor blade
+Available Under Monitor blade or Monitoring section of individual supported resources
 
 How it works in Azure?
 
