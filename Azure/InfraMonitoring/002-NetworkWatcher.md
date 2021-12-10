@@ -25,6 +25,8 @@ Go to Network Watcher from All Services and make sure it is enabled for the regi
 ### Network Diagnostic tools
 
 * IP flow verify
+    * will show you if a particular packet (port, protocol type, inbound/outbount, etc) allowed or denied
+        * will show the firewall rules that are applied that allows or denies the packet
 
 
 * Net hop
