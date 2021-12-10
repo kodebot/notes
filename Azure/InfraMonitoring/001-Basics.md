@@ -48,4 +48,17 @@ Azure monitoring collects host level settings by default -
     * disk usage 
     * cpu usage, etc...
 
+guest level metrics are not shown by default. Guest metric as seen by OS and it includes
+* performance logs
+* app logs
+* windows event logs
+
+
+we can enable guest level logs.
+* go to VM
+* choose Diagnostic logs under Monitoring
+* enable guest level monitoring
+
+
+
 
