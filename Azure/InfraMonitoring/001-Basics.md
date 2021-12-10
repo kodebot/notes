@@ -27,12 +27,12 @@ How it works in Azure?
 
 * choose resource (VM)
 * choose condition (CPU usage > 90%)
-* setup action groups
+* setup action groups (more than one allowed)
     * group name and type, type defines how to notify (more than one allowed)
         * Email/SMS/Push/Voice
         * Azure Function
         * Logic App
         * Webhook
-        * ITSM
+        * ITSM (create indident ticket using ITSM connector)
         * Automation Runbook
 
