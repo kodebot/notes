@@ -16,3 +16,8 @@ Go to Network Watcher from All Services and make sure it is enabled for the regi
 
 * Topology
     * Shows the topology of connected resources 
+* Connection Monitor
+    * Track connection between two machines
+        * to make sure one machine is accessible from another on a give port
+* Network Performance Monitor
+    * Monitor network performance
