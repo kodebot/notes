@@ -9,4 +9,12 @@ Key features
 * Search Queries
 * Several Output Options
 
+## Use Case
+
 ![image log analytics use cases](./img/log-analytics-use-cases.png)
+
+## Architecture
+
+![image log analytics architecture](./img/log-analytics-arch.png)
+
+ 
