@@ -1,5 +1,16 @@
 # Log Analytics
 
+You create a workspace to connect datasources and do something with it
+    * i.e. VM can be conneted to workspace to send log
+        * it basically installs an agent to send logs
+    * once connected, you can choose what logs to include in the workspace
+        * System Events
+        * App logs, etc..
+
+Can be used to collect activity logs too at sub level or more granular level
+
+It is chargeable service (Per GB pricing Tier)
+
 Key features
 * Central Role in monitoring
 * Data soruces
@@ -31,8 +42,19 @@ Key features
 
 ## Search query fundamentals
 
+Kusto Query Language (kql)
+
 * start with source table (i.e. Event)
 * follow with a series of operators
 * separate additional operations using pipe |
-* join other tables and workspaces using `union`
-* 
+* join other tables and workspaces using `union` (can query across qork spaces)
+
+
+example queries
+
+* see Perf logs
+
+``` kql
+perf
+```
+
