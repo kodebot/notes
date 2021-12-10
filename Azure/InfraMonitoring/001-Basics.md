@@ -10,4 +10,16 @@ How it works in Azure?
 * Setup & Alert Actions
     * conditional notifications and actions like shutdown VM, etc..
 
+## Metrics
+
+* choose sub(s)
+* choose rg
+* choose resource (this and above prefilled when accessed from a resource like VM)
+* then you will see metrics applicable to the resoruce
+* change the aggregation as needed (sum, max, avg, etc..)
+* change the visualisation as needed like line, bar, etc..
+* chage the time range as needed
+* can pin to dashboard 
+
+
 
