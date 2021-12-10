@@ -28,4 +28,11 @@ How it works in Azure?
 * choose resource (VM)
 * choose condition (CPU usage > 90%)
 * setup action groups
-    * group name and type 
+    * group name and type, type defines how to notify (more than one allowed)
+        * Email/SMS/Push/Voice
+        * Azure Function
+        * Logic App
+        * Webhook
+        * ITSM
+        * Automation Runbook
+
