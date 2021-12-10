@@ -14,6 +14,8 @@ create policy ➡️ then assign
 
 Before assigning, a policy must exist, there are built-in policies, custom can be created
 
+when assigning policy, it affects only the new resurces, existing ones need to updated using remediation task
+
 Policies are listed under `Definitions`
 
 policies are create using JSON
@@ -23,64 +25,49 @@ example
 ```json
 {
   "properties": {
-    "displayName": "Azure Cosmos DB allowed locations",
+    "displayName": "Allowed locations",
     "policyType": "BuiltIn",
     "mode": "Indexed",
-    "description": "This policy enables you to restrict the locations your organization can specify when deploying Azure Cosmos DB resources. Use to enforce your geo-compliance requirements.",
+    "description": "This policy enables you to restrict the locations your organization can specify when deploying resources. Use to enforce your geo-compliance requirements. Excludes resource groups, Microsoft.AzureActiveDirectory/b2cDirectories, and resources that use the 'global' region.",
     "metadata": {
       "version": "1.0.0",
-      "category": "Cosmos DB"
+      "category": "General"
     },
     "parameters": {
       "listOfAllowedLocations": {
         "type": "Array",
         "metadata": {
-          "displayName": "Allowed locations",
-          "description": "The list of locations that can be specified when deploying Azure Cosmos DB resources.",
-          "strongType": "location"
+          "description": "The list of locations that can be specified when deploying resources.",
+          "strongType": "location",
+          "displayName": "Allowed locations"
         }
-      },
-      "policyEffect": {
-        "type": "String",
-        "metadata": {
-          "displayName": "Policy Effect",
-          "description": "The desired effect of the policy."
-        },
-        "allowedValues": [
-          "deny",
-          "audit",
-          "disabled"
-        ],
-        "defaultValue": "deny"
       }
     },
     "policyRule": {
       "if": {
         "allOf": [
           {
-            "field": "type",
-            "equals": "Microsoft.DocumentDB/databaseAccounts"
+            "field": "location",
+            "notIn": "[parameters('listOfAllowedLocations')]"
           },
           {
-            "count": {
-              "field": "Microsoft.DocumentDB/databaseAccounts/Locations[*]",
-              "where": {
-                "value": "[replace(toLower(first(field('Microsoft.DocumentDB/databaseAccounts/Locations[*].locationName'))), ' ', '')]",
-                "in": "[parameters('listOfAllowedLocations')]"
-              }
-            },
-            "notEquals": "[length(field('Microsoft.DocumentDB/databaseAccounts/Locations[*]'))]"
+            "field": "location",
+            "notEquals": "global"
+          },
+          {
+            "field": "type",
+            "notEquals": "Microsoft.AzureActiveDirectory/b2cDirectories"
           }
         ]
       },
       "then": {
-        "effect": "[parameters('policyEffect')]"
+        "effect": "deny"
       }
     }
   },
-  "id": "/providers/Microsoft.Authorization/policyDefinitions/0473574d-2d43-4217-aefe-941fcdf7e684",
+  "id": "/providers/Microsoft.Authorization/policyDefinitions/e56962a6-4747-49cd-b67b-bf8b01975c4c",
   "type": "Microsoft.Authorization/policyDefinitions",
-  "name": "0473574d-2d43-4217-aefe-941fcdf7e684"
+  "name": "e56962a6-4747-49cd-b67b-bf8b01975c4c"
 }
 ```
 
