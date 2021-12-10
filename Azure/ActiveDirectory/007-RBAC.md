@@ -34,3 +34,10 @@ Get latest roles using PS command
 ```ps1
 Get-AzureRMRoleDefinition
 ```
+
+* custom roles can be created
+    * a tenant can have max of 2000 roles
+    * when creating a role can be scoped to 
+        * Sub, 
+        * RG 
+        * individual resources if needed
