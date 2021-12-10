@@ -12,4 +12,7 @@ Can be added using Extensions in the VM
 
 ## Monitoring
 
-Go to Network Watcher from All Services and make sure it is enabled for the region you want to use NW. If not enabled, you can simply enable from there
+Go to Network Watcher from All Services and make sure it is enabled for the region you want to use NW. If not enabled, you can simply enable from there.
+
+* Topology
+    * Shows the topology of connected resources 
