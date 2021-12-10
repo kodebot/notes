@@ -23,3 +23,9 @@ How it works in Azure?
 
 
 
+## Alert
+
+* choose resource (VM)
+* choose condition (CPU usage > 90%)
+* setup action groups
+    * group name and type 
