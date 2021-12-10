@@ -2,12 +2,14 @@
 
 * Enforce Governance
 * Buit-in or custom
-* assigned to sub or rg (Management group is allowed too)
+* assigned to management group, sub or rg
 
 create policy ➡️ then assign
 
 ## create
 
 * use `Policies` under Settings of RG(or similar)
+    * Assign Policy
+    * Assign Initiative
 
 
