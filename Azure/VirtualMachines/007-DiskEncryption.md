@@ -37,3 +37,9 @@ Different from storage encryption from Azure. This is encryption of disks at OS 
     * Linux both OS and data where root(/) file system usage is > 4GB
         * root file system usage * 2
             * e.g. 16 GB root file system needs 32 GB of RAM
+    * Connectivity to Azure AD
+    * Connectivity to KeyVault
+        * KeyVault enalbed for encryption
+    * Connectivity to Azure Storage
+    * 
+
