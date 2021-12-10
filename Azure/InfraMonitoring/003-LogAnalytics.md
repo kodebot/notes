@@ -58,3 +58,9 @@ example queries
 perf
 ```
 
+* heartbeat
+
+```kql
+heartbeat | where Computer == "<name>"
+```
+
