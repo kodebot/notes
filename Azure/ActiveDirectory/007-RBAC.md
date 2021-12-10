@@ -3,6 +3,9 @@
 * AD contains users, app, groups, etc...
 * We assigne these to a role
 
+
+Role includes one or more `Action` and `NotAction`
+
 buit-in roles
 * owner
     * full access
