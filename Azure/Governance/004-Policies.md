@@ -8,8 +8,12 @@ create policy ➡️ then assign
 
 ## create
 
-* use `Policies` under Settings of RG(or similar)
+* use `Policies` under Settings of RG(or similar), you will see the follwowing options
     * Assign Policy
     * Assign Initiative
+
+Before assigning, a policy must exist, there are built-in policies, custom can be created
+
+Policies are listed under `Definitions`
 
 
