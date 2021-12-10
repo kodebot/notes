@@ -41,4 +41,10 @@ How it works in Azure?
                 * scale up or down
                 * remove
 
+## Diagnostic logging (VM)
+
+Azure monitoring collects host level settings by default - this is what Azure can observe from Hypervisor things like 
+* disk usage 
+* cpu usage, etc...
+
 
