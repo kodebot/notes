@@ -41,3 +41,22 @@ Get-AzureRMRoleDefinition
         * Sub, 
         * RG 
         * individual resources if needed
+
+
+example custom role json
+
+```json
+{
+    "Name": "Kodebot VM Manager",
+    "Description": "Can manage VMs",
+    "Actions":[
+        "Microsoft.Storage/*/read",
+        "Microsoft.Network/*/read",
+        "Microsoft.Compute/*/read",
+        "Microsfot.Compute/VirtualMachines/start/action"
+        "Microsfot.Compute/VirtualMachines/restart/action"
+        "Microsoft.Authorization/*/read",
+        "Microsfot.Resources/subscriptions/resourceGroups/read"
+    ]
+}
+```
