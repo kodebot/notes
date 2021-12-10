@@ -53,10 +53,14 @@ example custom role json
         "Microsoft.Storage/*/read",
         "Microsoft.Network/*/read",
         "Microsoft.Compute/*/read",
-        "Microsfot.Compute/VirtualMachines/start/action"
-        "Microsfot.Compute/VirtualMachines/restart/action"
+        "Microsoft.Compute/VirtualMachines/start/action"
+        "Microsoft.Compute/VirtualMachines/restart/action"
         "Microsoft.Authorization/*/read",
-        "Microsfot.Resources/subscriptions/resourceGroups/read"
+        "Microsoft.Resources/subscriptions/resourceGroups/read",
+        "Microsoft.Support/*"
+    ],
+    "NotActions":[
+
     ]
 }
 ```
