@@ -35,3 +35,4 @@ Key features
 * follow with a series of operators
 * separate additional operations using pipe |
 * join other tables and workspaces using `union`
+* 
