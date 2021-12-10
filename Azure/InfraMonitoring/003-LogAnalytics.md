@@ -64,3 +64,15 @@ perf
 heartbeat | where Computer == "<name>" | where TimeGenerated > ago(1h)
 ```
 
+* event
+
+```kql
+Event | where EventId = "id"
+```
+
+* complex
+
+```kql
+Perf | where TimeGenerated > ago(1h) | where CounterName = @"% Processor Time" | summarize avg(CounterValue) by Computer, (bin(TimeGenerated, 15m)) | render timechart
+```
+
