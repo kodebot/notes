@@ -22,7 +22,7 @@
 
 ## Basic LB
 
-* Layer 4
+* Layer 4 (Network layer)
 * Supports upto 100 instances
 * VMs in single Availability set or VMSS
 * service monitoring
@@ -48,3 +48,16 @@ all from Basic and
 * availablity zone support
 * secure by default
 
+## App Gateway
+
+* web app traffic manger
+* layer 7 (application layer)
+* routing decision can be made using app features like cookie for session affinity (thanks to layer 7) 
+* SSL offload (redirecting)
+* SKUs
+    * Web app firewall sku provides more secure options (more cost)
+* URL based content routing
+* Requires its own subnet
+* Highly Available
+
+![image Application Gateway](./img/app-gateway.png)
