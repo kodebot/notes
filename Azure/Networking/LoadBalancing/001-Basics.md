@@ -108,3 +108,7 @@ all from Basic and
 5. Choose firewall mode
     * detection (logged)
     * prevention (denied)
+6. Add backend pools
+    * supports
+        * cookie affinity
+        * connecion drainage (before stop using a VM)
