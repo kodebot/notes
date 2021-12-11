@@ -59,7 +59,19 @@ all from Basic and
 * URL based content routing
 * Requires its own subnet
 * Highly Available
+* depending on the sizes, the through puts are different
+    * small
+        * 7.5 Mbps for 6K page response
+        * 35 Mbps for 100k page response
+    * medium
+        * 13 Mbps for 6K page response
+        * 100 Mbps for 100k page response
+    * large
+        * 50 Mbps for 6K page response
+        * 200 Mbps for 100k page response
+
 
 ![image Application Gateway](./img/app-gateway.png)
 
 ![image Application Gateway Example](./img/app-gateway-example.png)
+
