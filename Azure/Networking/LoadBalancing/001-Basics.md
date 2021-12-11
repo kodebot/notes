@@ -89,3 +89,22 @@ all from Basic and
 2. Create Backend pools (i.e. set of backend VMs)
 3. Create heath probe (for LB to decide if a machine in the backend pool is healthy or not (interval and failiure threshold))
 4. Create load balancing rules (put 1, 2, and 3 together)
+    * can setup session persistance
+    * floating IP 
+
+## Create App Gateway
+
+* can't handle network level traffic (TCP).
+* for http/s traffic
+* SKUs
+    * standard
+    * WAF
+
+1. Choose basic settings like SKU, etc..
+2. Choose VNET
+3. Choose Frontend IP Config
+    * optionally put dns label on PIP
+4. Upload cert if configured to use https 
+5. choose firewall mode
+    * detection
+    * prevention
