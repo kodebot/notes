@@ -9,7 +9,12 @@
 ## Properties
 * Protocol (TCP/UDP)
 * Src & Dest Ports ➡️ 1 to 65535 or * for all port
-* Src & Dest address prefix
+* Src & Dest address prefix or tags
+    * include system provided tags for simplicity
+        * virtual network
+        * Azure Loadbalancer
+        * Internet
+
 * Direction
 * Priority
     * 100 to 4096 ( lower the number higher the priority)
