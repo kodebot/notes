@@ -105,6 +105,6 @@ all from Basic and
 3. Choose Frontend IP Config
     * optionally put dns label on PIP
 4. Upload cert if configured to use https 
-5. choose firewall mode
+5. Choose firewall mode
     * detection
     * prevention
