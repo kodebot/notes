@@ -117,3 +117,4 @@ all from Basic and
     * listener
     * backend pool
     * http settings
+9. Can add health probe too
