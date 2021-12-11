@@ -112,3 +112,8 @@ all from Basic and
     * supports
         * cookie affinity
         * connecion drainage (before stop using a VM)
+7. Add http/s listener
+8. Create rules, put together the following
+    * listener
+    * backend pool
+    * http settings
