@@ -106,5 +106,5 @@ all from Basic and
     * optionally put dns label on PIP
 4. Upload cert if configured to use https 
 5. Choose firewall mode
-    * detection
-    * prevention
+    * detection (logged)
+    * prevention (denied)
