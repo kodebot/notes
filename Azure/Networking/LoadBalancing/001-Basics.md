@@ -78,5 +78,5 @@ all from Basic and
 ## What to choose?
 
 
-![image Load Balancing Decisino tree](./img/load-balancing-decision-tree.png)
+![image Load Balancing Decision tree](./img/load-balancing-decision-tree.png)
 
