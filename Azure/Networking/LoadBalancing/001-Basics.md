@@ -74,3 +74,9 @@ all from Basic and
 
 ![image Application Gateway Example](./img/app-gateway-example.png)
 
+
+## What to choose?
+
+
+![image Load Balancing Decisino tree](./img/load-balancing-decision-tree.png)
+
