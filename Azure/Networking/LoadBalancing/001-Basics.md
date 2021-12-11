@@ -83,3 +83,8 @@ all from Basic and
 
 ![image Load Balancing Decision tree](./img/lb-feature-comp.png)
 
+## Create Load Balancer
+
+1. Create Frontend IP Config (can be public or internal)
+2. Create Backend pools (i.e. set of backend VMs)
+3. Create heath probe (for LB to decide if a machine in the backend pool is healthy or not (interval and failiure threshold))
