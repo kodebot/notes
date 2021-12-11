@@ -61,3 +61,5 @@ all from Basic and
 * Highly Available
 
 ![image Application Gateway](./img/app-gateway.png)
+
+![image Application Gateway Example](./img/app-gateway-example.png)
