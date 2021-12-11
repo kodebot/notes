@@ -77,6 +77,9 @@ all from Basic and
 
 ## What to choose?
 
+[Ref](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)
 
 ![image Load Balancing Decision tree](./img/load-balancing-decision-tree.png)
+
+![image Load Balancing Decision tree](./img/lb-feature-comp.png)
 
