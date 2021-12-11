@@ -70,7 +70,6 @@ all from Basic and
         * 50 Mbps for 6K page response
         * 200 Mbps for 100k page response
 
-
 ![image Application Gateway](./img/app-gateway.png)
 
 ![image Application Gateway Example](./img/app-gateway-example.png)
