@@ -6,5 +6,6 @@
         * VMSnapshot extension in Windows
         * VMSnapshotLinux extension in Linux
     * extensions are installed during the first VM backup if the VM is running
-* if VM is not running, the backup service will take snapshot of the underlying storage of the VM
+* if VM is not running, 
+    * the backup service will take snapshot of the underlying storage of the VM
 
