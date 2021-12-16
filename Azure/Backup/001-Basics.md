@@ -32,7 +32,7 @@ there are several backup components availble depending on what is being backed u
 * Recovery Services Vault
     * prepare to host backup
     * then create and deploy backup policies
-    * 
+    * now backups can begin 
 
 
 
