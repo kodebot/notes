@@ -25,14 +25,24 @@
 
 * backup data at rest is also encrypted
 
-# Components
 
-there are several backup components availble depending on what is being backed up
+# Recovery Services Vault
 
-* Recovery Services Vault
-    * prepare to host backup
-    * then create and deploy backup policies
-    * now backups can begin 
+a store to keep backups
+* prepare to host backup
+* then create and deploy backup policies
+* now backups can begin 
+* can not be used to backup VM in different region so the Vault must exist in the same region
+
+Restore Options for VMs Protected by Azure Backup
+* restore points
+    * for individual files and folder
+    * for entire disks 
+    * to create entirely new VM
+
+Power BI can be used to create Backup Reports 
+
+
 
 
 
