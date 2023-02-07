@@ -6,4 +6,5 @@ Notes on various topics that I've learned and want to remember.
 
 * Jupyter notebooks
 * Markdown files
+* excalidraw files
 
