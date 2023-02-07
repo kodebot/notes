@@ -11,5 +11,5 @@ Notes on various topics that I've learned and want to remember.
 
 ## Excalidraw
 
-With excalidraw extension installed, you can name the file with `.excalidraw` extension and it will be rendered as an excalidraw diagram.
+With excalidraw extension installed, you can name the file with `.excalidraw.png` extension and it will be rendered as png when linked in markdown files and still editable.
 
