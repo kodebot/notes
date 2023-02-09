@@ -41,5 +41,6 @@
     },
     "peacock.color": "#b661de",
     "pasteImage.defaultName": "${currentFileNameWithoutExt}-ss",
+    "pasteImage.path": "${currentFileDir}/img"
     
 }
