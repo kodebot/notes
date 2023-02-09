@@ -40,7 +40,7 @@
         "titleBar.inactiveForeground": "#15202b99"
     },
     "peacock.color": "#b661de",
-    "pasteImage.defaultName": "${currentFileNameWithoutExt}-ss",
+    "pasteImage.defaultName": "${currentFileNameWithoutExt}-DDHHmmss",
     "pasteImage.path": "${currentFileDir}/img"
     
 }
