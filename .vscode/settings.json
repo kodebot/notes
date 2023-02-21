@@ -43,7 +43,8 @@
     "pasteImage.defaultName": "${currentFileNameWithoutExt}-DDMMHHmmss",
     "pasteImage.path": "${currentFileDir}/img",
     "cSpell.words": [
-        "runtimes"
+        "runtimes",
+        "sharepoint"
     ]
     
 }
