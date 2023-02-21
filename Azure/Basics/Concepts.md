@@ -140,7 +140,7 @@ Management group(s)
     * access control boundary
 * limits can be applied on subs
 
-if you have multiple subs, invocie section allows you to organise your invoice
+if you have multiple subs, invoice section allows you to organise your invoice
 
 # Azure management groups
 
