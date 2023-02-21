@@ -1,4 +1,4 @@
-# Why Clould? 
+# Why Cloud? 
 
 1. Cheap
 2. Scalable
@@ -6,7 +6,7 @@
 
 # How Azure works?
 
-Azure uses virtualisation called `Hypervisor` to decouple os and the hardward and runs many virtual machines on one machine.
+Azure uses virtualisation called `Hypervisor` to decouple os and the hardware and runs many virtual machines on one machine.
 
 Physical Server + Hypervisor = Many virtual servers
 
