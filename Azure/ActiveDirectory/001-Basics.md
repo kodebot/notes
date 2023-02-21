@@ -3,7 +3,7 @@
 used for authentication
 
 Options
-* Azure Active Driector (AAD) (new and preferred for anything that supports it)
+* Azure Active Director (AAD) (new and preferred for anything that supports it)
 * Active Directory Domain Servcies (ADDS) ( setup within a windows server - on-prem, traditional)
 * Azure Ative Directory Domain Services (AADDS) - managed service
 
