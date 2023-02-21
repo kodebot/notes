@@ -21,4 +21,4 @@ App Service uses federated identity, in which a third-party identity providers m
 | Microsoft Identity Platform | /.auth/login/aad        |
 | Facebook                    | /.auth/login/facebook   |
 | Google                      | /.auth/login/google     |
-| Twiter                      | /.auth/login/twitter    |
+| Twitter                      | /.auth/login/twitter    |
