@@ -107,7 +107,7 @@ Management group(s)
     * Non-regional service - available from Azure geographies and resilient to zone-wide outage
 
 * `Region Pairs` - two regions within same geography (US, Europe, Asia, etc..)
-    * there could be disaters where multiple availability zones within a region is affected.
+    * there could be disasters where multiple availability zones within a region is affected.
     * with region pairs, resources are replicated to paired region (geo-redundant)
     * when both regions are affected, Microsoft prioritises to restore service on one of the paried region ASAP
     * Data resides within same geography except for Brazil South (South Central US is the pair)
