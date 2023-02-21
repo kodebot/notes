@@ -2,7 +2,7 @@
 
 * designed to replace any existing on-premises or off-site backup solution
 * when backup job initiated by Azure Backup Service
-    * if VM is ruuning
+    * if VM is running
         * the service triggers point-in-time snapshot using backup extension installed on VM
             * VMSnapshot extension in Windows
             * VMSnapshotLinux extension in Linux
