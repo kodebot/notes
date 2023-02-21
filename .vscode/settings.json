@@ -41,6 +41,9 @@
     },
     "peacock.color": "#b661de",
     "pasteImage.defaultName": "${currentFileNameWithoutExt}-DDMMHHmmss",
-    "pasteImage.path": "${currentFileDir}/img"
+    "pasteImage.path": "${currentFileDir}/img",
+    "cSpell.words": [
+        "runtimes"
+    ]
     
 }
