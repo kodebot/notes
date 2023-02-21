@@ -11,7 +11,7 @@
         * the backup service will take snapshot of the underlying storage of the VM
 
 * for consistency
-    * Azure Backup Service coordidate with Volume Shadow Copy Service (VSS) in Windows
+    * Azure Backup Service coordinate with Volume Shadow Copy Service (VSS) in Windows
     * In Linux custom scripts can be used to ensure consistency
 
 * after taking the snapshot, Azure backup service transfers data to the vault
