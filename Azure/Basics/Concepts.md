@@ -87,7 +87,7 @@ Management group(s)
 
 * `Region` - Geographical location that contains at least one Azure data center. Azure has many Regions across the world. 
 
-    * When a region has more than one datacenters then they are networked toghther with low latency network. 
+    * When a region has more than one data centers then they are networked toghther with low latency network. 
 
     * West US, West Europe and Japan are some examples of region
 
