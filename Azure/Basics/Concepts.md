@@ -134,7 +134,7 @@ Management group(s)
 * provides authenticated access to services and products
 * logical unit for resources linked to Azure account
 * An account can have more than one subs
-* Azure accont is identity in Azure AD or similar
+* Azure account is identity in Azure AD or similar
 * subs can be used to define boundaries
     * billing boundary
     * access control boundary
