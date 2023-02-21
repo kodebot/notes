@@ -96,7 +96,7 @@ Management group(s)
         * US DoD Central, US Gov Virginia, etc..
         * China East, China North, etc..
 
-* `Availability Zone` - is made up of one or more datacenters with independant power, cooling and networking. 
+* `Availability Zone` - is made up of one or more data centers withindependentt power, cooling and networking. 
 
     * It is isolation boundary, so if one goes down, other will continue to work
     * Availability Zones are conencted via high speed, private fiber optic networks
