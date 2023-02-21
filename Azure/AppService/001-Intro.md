@@ -37,7 +37,7 @@
 ## How running and scaling apps work?
 
 * An app runs on all the VM instances available in the App Service Plan
-* If multiple app are running in the App Service Plan then each app run on all of the VM instalnces
+* If multiple app are running in the App Service Plan then each app run on all of the VM instances
 * When multiple deployment slots are created, each slot runs on all of the VM instances
 * Any additional activities like logging, backup or running WebJob affects the performance of the the Apps becuase they too use the CPU of the VM instances
 
