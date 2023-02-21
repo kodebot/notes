@@ -3,7 +3,7 @@
 * provides built-in authentication and authorisation support
 * can use also use web framework's auth & auth or use custom ones
 * using built-in ones saves you lot of time
-* built-in auth supports integrating multiple login providers liek AD, Facebook, Google, etc..
+* built-in auth supports integrating multiple login providers like AD, Facebook, Google, etc..
 
 App Service uses federated identity, in which a third-party identity providers manages the user identities and authentication flow
 
