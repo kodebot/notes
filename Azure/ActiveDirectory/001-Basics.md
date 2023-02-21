@@ -5,7 +5,7 @@ used for authentication
 Options
 * Azure Active Director (AAD) (new and preferred for anything that supports it)
 * Active Directory Domain Services (ADDS) ( setup within a windows server - on-prem, traditional)
-* Azure Ative Directory Domain Services (AADDS) - managed service
+* Azure Active Directory Domain Services (AADDS) - managed service
 
 
 ## AAD
@@ -31,5 +31,5 @@ Options
 
 * enterprise identity solution
 * single sign-on
-* multifactor auth (MFA)
+* multi-factor auth (MFA)
 * self-service ( password reset, request access to apps, etc...)
