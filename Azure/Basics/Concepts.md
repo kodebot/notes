@@ -10,8 +10,8 @@ Azure uses virtualisation called `Hypervisor` to decouple os and the hardward an
 
 Physical Server + Hypervisor = Many virtual servers
 
-* Microsoft has datacenters across the world
-* Each datacenter has many racks
+* Microsoft has data centers across the world
+* Each data center has many racks
 * Each rack has many servers
 
 All the servers of a rack are connected to network switch
