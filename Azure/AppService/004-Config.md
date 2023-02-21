@@ -19,7 +19,7 @@
 * Runtime stack settings (e.g. Python, maj ver, min ver)
 * Platform settings 
     * bitness (32/64)
-    * websocket protocal
+    * websocket protocol
     * always on to avoid unloading app after 20 minutes of idle
     * IIS mode - managed/integrated
     * http version
