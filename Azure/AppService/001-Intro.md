@@ -39,11 +39,11 @@
 * An app runs on all the VM instances available in the App Service Plan
 * If multiple app are running in the App Service Plan then each app run on all of the VM instances
 * When multiple deployment slots are created, each slot runs on all of the VM instances
-* Any additional activities like logging, backup or running WebJob affects the performance of the the Apps becuase they too use the CPU of the VM instances
+* Any additional activities like logging, backup or running WebJob affects the performance of the the Apps because they too use the CPU of the VM instances
 
 In other words, App service plane is `scale unit` for apps.
 
-* App Service Plan can be scalled up and down anytime by chaning the pricing tier
+* App Service Plan can be scaled up and down anytime by changing the pricing tier
 * Moving app from one App Service Plan to another is possible as long as both plans are in the same region
 
 ## Deployments
