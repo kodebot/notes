@@ -117,7 +117,7 @@ Management group(s)
 
 ## Resource group
 * logical group of resources
-* controls lifecycle of resoruces under it. i.e. if you delete rg all the resources in that are gone
+* controls lifecycle of resources under it. i.e. if you delete rg all the resources in that are gone
 * can apply RBAC permissions are rg level
 * a resource can only be part of one rg
 * rgs cannot be nested
