@@ -9,7 +9,7 @@
 * settings can be updated in bulk using advance option
 * connection strings are special types of settings that are always encrypted
 * con strings are recommended for ASP.NET (normal and core)
-* for other stacks it is better to avoid con strs and use just app settings
+* for other stacks it is better to avoid con strings and use just app settings
 * for non-windows only time con strs are recommended is when it is used for DB backup
 
 # General Settings
