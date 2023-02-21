@@ -31,10 +31,10 @@
 * Limitations
     * Linux not supported in shared pricing tier
     * Can't mix linux and windows apps in the same App Service Plan
-    * Historically can't even share rg for linux and windows resoruces but this has changed on 📅 21<sup>st</sup> Jan 2021 
+    * Historically can't even share rg for linux and windows resources but this has changed on 📅 21<sup>st</sup> Jan 2021 
 
 
-## How running and scalling apps work?
+## How running and scaling apps work?
 
 * An app runs on all the VM instances available in the App Service Plan
 * If multiple app are running in the App Service Plan then each app run on all of the VM instalnces
