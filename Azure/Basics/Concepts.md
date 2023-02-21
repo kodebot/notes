@@ -99,7 +99,7 @@ Management group(s)
 * `Availability Zone` - is made up of one or more data centers withindependentt power, cooling and networking. 
 
     * It is isolation boundary, so if one goes down, other will continue to work
-    * Availability Zones are conencted via high speed, private fiber optic networks
+    * Availability Zones are connected via high speed, private fiber optic networks
     * Availability Zones are genrally not far from each other
     * Not all regions support availability zone
     * Zonal Service - resources are pinned to a zone
