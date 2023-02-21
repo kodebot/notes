@@ -144,7 +144,7 @@ if you have multiple subs, invoice section allows you to organise your invoice
 
 # Azure management groups
 
-* gropus subs
+* groups subs
 * allows managaging access, policies and compliance for group of subs
 * all subs must trust same AD tenant for this to work
 * you can have hierarchy of management groups (max 6 level deep and 10,000 in total)
