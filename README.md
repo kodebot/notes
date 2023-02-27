@@ -14,4 +14,4 @@ With excalidraw extension installed, you can name the file with `.excalidraw.png
 
 ## KaTeX and MathJax
 
-vscode uses KaTeX for displaying TeX in the markdown preview but Github uses MathJax so sometimes TeX will be appear correctly in vscode preview but not in the Github. If this happens make sure MathJax variation is used correctly. More info on MathJax can be found [here](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+vscode uses KaTeX for displaying TeX in the markdown preview but Github uses MathJax so sometimes TeX will be appear correctly in vscode preview but not in the Github. If this happens make sure MathJax variation is used correctly. More info on MathJax can be found [here](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
