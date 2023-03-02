@@ -53,15 +53,15 @@ use `git-crypt status -f` if any file that should be encrypted is not encrypted
 
 ### First time repository setup [DO NOT do this for this repo]
 
-DO NOT do this for this repo, but this what was done to extract the key that is used for 
+DO NOT do this for this repo, but this what was done to extract the key that is used by this repo 
 
 In the root repo folder run the following command to create and extract the key
 
-```
+```sh
 git-crypt init
 ```
 
-```
+```sh
 git-crypt export-key ../git-crypt-notes-key
 ```
 
