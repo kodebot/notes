@@ -22,7 +22,7 @@ Some folder are encrypted for legal reasons or they contain data that should not
 
 `git-crypt` is used for encryption
 
-### `git-crypt` Setup
+### `git-crypt` Setup on a new machine
 
 #### 1. Install
 
@@ -51,7 +51,7 @@ use `git-crypt status -f` if any file that should be encrypted is not encrypted
 1. make sure to remove any .gitignore file from secrets folder
 2. before pushing make sure the files are encrypted `git-crypt status -e`
 
-## Sensitive files => More Info
+#### Sensitive files => More Info
 
 DO NOT do this but this what was done to extract the key that is shared across the repos
 
