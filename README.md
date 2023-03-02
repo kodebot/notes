@@ -87,7 +87,7 @@ git-crypt lock
 
 ```sh
 git-crypt unlock <key-file>
-``
+```
 
 see what is going to happen to each file (test encryption)
 
