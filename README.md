@@ -22,6 +22,8 @@ Some folder are encrypted for legal reasons or they contain data that should not
 
 `git-crypt` is used for encryption
 
+### `git-crypt` Setup
+
 To access those files, make sure 
 
 
