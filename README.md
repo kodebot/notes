@@ -46,7 +46,7 @@ use `git-crypt status -e` to view encryption status
 
 use `git-crypt status -f` if any file that should be encrypted is not encrypted
 
-#### 4. Gotchas
+#### 4. Gotcha
 
 1. make sure to remove any .gitignore file from secrets folder
 2. before pushing make sure the files are encrypted `git-crypt status -e`
