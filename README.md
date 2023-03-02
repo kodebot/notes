@@ -77,22 +77,22 @@ example
 secrets/** filter=git-crypt diff=git-crypt
 ```
 
-### useful git-crypt commands
+### Useful `git-crypt` commands
 
 lock and unlock (automatically done as part of commit, push and pull for can use the below if need to do explicitly)
 
-```
+```sh
 git-crypt lock
 ```
 
-```
+```sh
 git-crypt unlock <key-file>
 ``
 
 see what is going to happen to each file (test encryption)
-```
-git-crypt status -e
 
+```sh
+git-crypt status -e
 ```
 
 
