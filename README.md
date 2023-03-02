@@ -20,6 +20,8 @@ vscode uses KaTeX for displaying TeX in the markdown preview but Github uses Mat
 
 Some folder are encrypted for legal reasons or they contain data that should not be shared. For example university assessment or notes.
 
+**When it is OK to make them public, move it out of `encrypted` folder**
+
 `git-crypt` is used for encryption
 
 ### `git-crypt` Setup on a new machine
