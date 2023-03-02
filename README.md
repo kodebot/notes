@@ -34,6 +34,7 @@ brew install git-crypt
 brew install gpg
 ```
 
+#### 2. Key file
 copy the `git-crypt-key` file to the folder above the repository
 
 then from within the repository run `git-crypt unlock ../git-crypt-key`
