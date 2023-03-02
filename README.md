@@ -50,7 +50,6 @@ use `git-crypt status -f` if any file that should be encrypted is not encrypted
 
 1. make sure to remove any .gitignore file from secrets folder
 2. before pushing make sure the files are encrypted `git-crypt status -e`
-3. ssh key might be rejected by ssh if the permission is wide open, use `chmod 600 <filepath>` to fix it
 
 ## Sensitive files => More Info
 
