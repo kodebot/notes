@@ -74,7 +74,7 @@ Add entries to `.gitattributes` file to encrypt files
 example
 
 ```sh
-secrets/** filter=git-crypt diff=git-crypt
+**/encrypted/** filter=git-crypt diff=git-crypt
 ```
 
 ### Useful `git-crypt` commands
