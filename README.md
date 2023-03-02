@@ -24,7 +24,7 @@ Some folder are encrypted for legal reasons or they contain data that should not
 
 ### `git-crypt` Setup
 
-1. Install
+#### 1. Install
 
 ```sh
 brew install git-crypt
