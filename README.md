@@ -28,7 +28,7 @@ Some folder are encrypted for legal reasons or they contain data that should not
 brew install git-crypt
 ```
 
-```
+```sh
 brew install gpg
 ```
 
