@@ -94,5 +94,3 @@ see what is going to happen to each file (test encryption)
 ```sh
 git-crypt status -e
 ```
-
-
