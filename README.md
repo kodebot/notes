@@ -36,7 +36,7 @@ brew install gpg
 
 #### 2. Key file
 
-copy the `git-crypt-key` file to the folder above the repository (this is in keepass)
+copy the `git-crypt-notes-key` file to the folder above the repository (this is in keepass)
 
 #### 3. Unlock
 
