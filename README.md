@@ -38,6 +38,8 @@ brew install gpg
 
 copy the `git-crypt-key` file to the folder above the repository (this is in keepass)
 
+#### 3. Unlock
+
 then from within the repository run `git-crypt unlock ../git-crypt-key`
 
 use `git-crypt status -e` to view encryption status
