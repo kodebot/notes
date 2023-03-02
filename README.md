@@ -40,7 +40,7 @@ copy the `git-crypt-notes-key` file to the folder above the repository (this is 
 
 #### 3. Unlock
 
-then from within the repository run `git-crypt unlock ../git-crypt-key`
+then from within the repository run `git-crypt unlock ../git-crypt-notes-key`
 
 use `git-crypt status -e` to view encryption status
 
@@ -62,7 +62,7 @@ git-crypt init
 ```
 
 ```
-git-crypt export-key ../git-crypt-key
+git-crypt export-key ../git-crypt-notes-key
 ```
 
 this extracts and puts the key file outside the repo (store this in keepass)
