@@ -51,9 +51,9 @@ use `git-crypt status -f` if any file that should be encrypted is not encrypted
 1. make sure to remove any .gitignore file from secrets folder
 2. before pushing make sure the files are encrypted `git-crypt status -e`
 
-### First time repository setup [DO NOT do this for this rep] 
+### First time repository setup [DO NOT do this for this repo] 
 
-DO NOT do this but this what was done to extract the key that is shared across the repos
+DO NOT do this for this repo, but this what was done to extract the key that is used for 
 
 In the root repo folder run the following command to create and extract the key
 
