@@ -25,6 +25,7 @@
     "pasteImage.path": "${currentFileDir}/img",
     "cSpell.words": [
         "runtimes",
+        "scikit",
         "sharepoint"
     ],
     "workbench.colorCustomizations": {
