@@ -47,6 +47,5 @@
         "titleBar.inactiveBackground": "#83256199",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.remoteColor": "#832561",
-    "python.languageServer": "Pylance"
+    "peacock.remoteColor": "#832561"
 }
