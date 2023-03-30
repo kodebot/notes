@@ -116,5 +116,5 @@ wc -l <filename>
 3. Split
 
 ```bash
-split -l <lines per file>  <input file name> Jane-Eyre-part-
+split -l <lines per file>  <input file name> <output file prefix>
 ```
