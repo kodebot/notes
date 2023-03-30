@@ -104,7 +104,7 @@ When commit has large changes like images or csv files then default postBuffer c
 
 if this happens, use the following command to increase postBuffer to nearly 150MB, then try pushing
 
-```
+```bash
 git config --global http.postBuffer 150000000
 ```
 
