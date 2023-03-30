@@ -96,3 +96,16 @@ see what is going to happen to each file (test encryption)
 ```sh
 git-crypt status -e
 ```
+
+## Splitting large files
+
+Unable to push files that are around ore more than 1MB.
+
+If this happens, go back to previous commit, and split the files then add one part at a time
+
+works for csv files
+
+1. Get total line count
+```bash
+wc -l <filename>
+```
