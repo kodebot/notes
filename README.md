@@ -102,7 +102,7 @@ git-crypt status -e
 
 When commit has large changes like images or csv files then default postBuffer causes git push to hang.
 
-if this happens, use the following command to increase postBuffer to nearly 150MB
+if this happens, use the following command to increase postBuffer to nearly 150MB, then try pushing
 
 ```
 git config --global http.postBuffer 150000000
