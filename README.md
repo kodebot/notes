@@ -111,9 +111,9 @@ works for csv files
 wc -l <filename>
 ```
 
-2. Decide how many lines per file is needed
+2.Decide how many lines per file is needed
 
-3. Split
+3.Split
 
 ```bash
 split -l <lines per file>  <input file name> <output file prefix>
