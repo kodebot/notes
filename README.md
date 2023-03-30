@@ -116,5 +116,5 @@ wc -l <filename>
 3. Split
 
 ```bash
-split -l 11000  Jane-Eyre.txt Jane-Eyre-part-
+split -l <lines per file>  <input file name> Jane-Eyre-part-
 ```
