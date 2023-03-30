@@ -105,7 +105,7 @@ If this happens, go back to previous commit, and split the files then add one pa
 
 works for csv files
 
-1. Get total line count
+1.Get total line count
 
 ```bash
 wc -l <filename>
