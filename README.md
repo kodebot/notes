@@ -106,6 +106,15 @@ If this happens, go back to previous commit, and split the files then add one pa
 works for csv files
 
 1. Get total line count
+
 ```bash
 wc -l <filename>
+```
+
+2. Decide how many lines per file is needed
+
+3. Split
+
+```bash
+split -l 11000  Jane-Eyre.txt Jane-Eyre-part-
 ```
