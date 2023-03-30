@@ -95,6 +95,17 @@ see what is going to happen to each file (test encryption)
 
 ```sh
 git-crypt status -e
+
+```
+
+## git postBuffer
+
+When commit has large changes like images or csv files then default postBuffer causes git push to hang.
+
+if this happens, use the following command to increase postBuffer to nearly 150MB
+
+```
+git config --global http.postBuffer 150000000
 ```
 
 ## Splitting large files
