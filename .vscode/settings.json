@@ -24,9 +24,13 @@
     "pasteImage.defaultName": "${currentFileNameWithoutExt}-DDMMHHmmss",
     "pasteImage.path": "${currentFileDir}/img",
     "cSpell.words": [
+        "doit",
+        "matplotlib",
+        "pyplot",
         "runtimes",
         "scikit",
-        "sharepoint"
+        "sharepoint",
+        "sympy"
     ],
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#c98be7",
