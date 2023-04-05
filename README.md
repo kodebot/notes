@@ -129,4 +129,3 @@ wc -l <filename>
 ```bash
 split -l <lines per file>  <input file name> <output file prefix>
 ```
-
