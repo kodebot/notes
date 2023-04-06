@@ -14,6 +14,7 @@
         "exportWithBackground": true,
         "exportWithDarkMode": true,
     },
+    "draw.directory": "${currentFileDir}/img",
     "github.copilot.enable": {
         "*": false,
         "yaml": false,
