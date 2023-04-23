@@ -4,7 +4,8 @@
             {
                 "match": "\\.*",
                 "isAsync": true,
-                "cmd": "cd ${workspaceFolder} && ${workspaceFolder}/.auto/commit.sh",
+                "cmd": "./.auto/commit.sh",
+                "cwd": "${workspaceFolder}"
             }
         ]
     },
