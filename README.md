@@ -36,6 +36,8 @@ brew install git-crypt
 brew install gpg
 ```
 
+for windows use this repo <https://github.com/oholovko/git-crypt-windows>
+
 #### 2. Key file
 
 copy the `git-crypt-notes-key` file to the folder above the repository (this is in keepass)
