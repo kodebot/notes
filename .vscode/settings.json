@@ -26,6 +26,7 @@
     "pasteImage.path": "${currentFileDir}/img",
     "cSpell.words": [
         "doit",
+        "Gini",
         "matplotlib",
         "pyplot",
         "runtimes",
