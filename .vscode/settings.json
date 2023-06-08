@@ -28,6 +28,7 @@
         "doit",
         "Gini",
         "matplotlib",
+        "perceptron",
         "pyplot",
         "runtimes",
         "scikit",
