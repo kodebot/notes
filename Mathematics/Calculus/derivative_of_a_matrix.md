@@ -4,13 +4,13 @@
 
 * $\frac{d}{dx}(kx^2) = 2kx$
 
-## What is $\frac{d}{dx}(A\vec{x}) $ ?
+## What is $\frac{d}{dx}(A\vec{x})$ ?
 
 * NOTE: we are not taking a derivative of a matrix, instead we are taking a derivative of a linear transformation $Ax$
 
 * there should be a derivative for this as A is a function that takes x and spits out some output
 
-* $A = \begin{bmatrix} 1 && 2 \\
+* $A = \begin{bmatrix}1 && 2 \\
 3 && 4 \end{bmatrix}$
 
 * $\vec{x} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}$
