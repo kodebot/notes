@@ -10,9 +10,9 @@
 
 * there should be a derivative for this as A is a function that takes x and spits out some output
 
-* $A = \begin{bmatrix}1 && 2 \\
+$$A = \begin{bmatrix}1 && 2 \\
 3 && 4
-\end{bmatrix}$
+\end{bmatrix}$$
 
 * $\vec{x} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}$
 
