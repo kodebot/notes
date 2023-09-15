@@ -58,7 +58,7 @@ This form is useful when we have lot of variables
 
 Assume we have sample
 
-$$ Sample = [\bold{x_1, x_2, ...x_N}]\text{ in }\mathbb{R}^D $$
+$$ Sample = [\boldsymbol{x_1, x_2, ...x_N}]\text{ in }\mathbb{R}^D $$
 
 This means $\bold{x_1, x_2, ... x_N} $ are vectors and each vector is made D of real numbers
 
@@ -66,13 +66,13 @@ So the dimension of Sample is $N\times D$
 
 Now, closed form covariance matrix $S$ is
 
-$$ S = \frac{1}{N}\sum_{i=1}^N (\bold{x_i - \bar{x}}) (\bold{x_i - \bar{x}})^\intercal $$
+$$ S = \frac{1}{N}\sum_{i=1}^N (\boldsymbol{x_i - \bar{x}}) (\boldsymbol{x_i - \bar{x}})^\intercal $$
 
 where
 
-1. $\bold{\bar{x}}$ is mean of $\bold{x}$ vectors
+1. $\boldsymbol{\bar{x}}$ is mean of $\boldsymbol{x}$ vectors
 
-2. $(\bold{x_i - \bar{x}})$ is $ D \times 1 $ column vector and $(\bold{x_i - \bar{x}})^\intercal $ is $ 1 \times D $ row vector so the result is $ D \times D $ vector.
+2. $(\boldsymbol{x_i - \bar{x}})$ is $ D \times 1 $ column vector and $(\boldsymbol{x_i - \bar{x}})^\intercal $ is $ 1 \times D $ row vector so the result is $ D \times D $ vector.
 
 Covariance for $n^{th}$ and $m^{th}$ variable can be calculated using
 
