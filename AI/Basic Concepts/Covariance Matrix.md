@@ -72,7 +72,7 @@ where
 
 1. $\mathbf{\bar{x}}$ is mean of $\mathbf{x}$ vectors
 
-2. $(\mathbf{x_i - \bar{x}})$ is $ D \times 1 $ column vector and $(\mathbf{x_i - \bar{x}})^\intercal $ is $ 1 \times D $ row vector so the result is $ D \times D $ vector.
+2. $(\mathbf{x_i - \bar{x}})$ is $ D \times 1 $ column vector and $(\mathbf{x_i - \bar{x}})^\intercal$ is $1 \times D$ row vector so the result is $D \times D$ vector.
 
 Covariance for $n^{th}$ and $m^{th}$ variable can be calculated using
 
