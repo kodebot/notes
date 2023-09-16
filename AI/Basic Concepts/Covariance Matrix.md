@@ -10,7 +10,7 @@ Negative value indicates when one variable is high the other will be low and vic
 
 This is very similar to correction expect that correlation is bounded between -1 and 1 and we don't have that limitation with covariance.
 
-The magnitude indicates how strong the relationship is provided the scales are appropriate to compare for both variables.
+The magnitude indicates how strong the relationship is, provided the scales are appropriate to compare, for both variables.
 
 Assume we have N datapoints with two variables x and y
 
