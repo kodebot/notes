@@ -60,7 +60,7 @@ Assume we have sample
 
 $$ Sample = [\mathbf{x_1, x_2, ...x_N}]\text{ in }\mathbb{R}^D $$
 
-This means $\mathbf{x_1, x_2, ... x_N} $ are vectors and each vector is made D of real numbers
+This means $\mathbf{x_1, x_2, ... x_N}$ are vectors and each vector is made D of real numbers
 
 So the dimension of Sample is $N\times D$
 
