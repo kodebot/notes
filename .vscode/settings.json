@@ -12,7 +12,7 @@
     "files.autoSave": "afterDelay",
     "excalidraw.image": {
         "exportScale": 1,
-        "exportWithBackground": true,
+        "exportWithBackground": false,
         "exportWithDarkMode": true,
     },
     "github.copilot.enable": {
