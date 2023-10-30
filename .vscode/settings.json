@@ -29,6 +29,7 @@
         "Gini",
         "imputer",
         "matplotlib",
+        "Metamodel",
         "perceptron",
         "pyplot",
         "runtimes",
