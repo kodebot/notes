@@ -1,0 +1,46 @@
+" Use this file when working in Visual Studio + VsVim
+" Place this file in %USERPROFILE% folder
+
+" After installing VsVim extension - let vim to handle all key bindings
+
+" The following key bindings should be set in Visual Studio and let these keys to be handled by Visual Studio
+" Ctrl + / - Edit.ToggleLineComment
+" Ctrl + p - Edit.LineUp
+" Ctrl + n - Edit.LineDown
+" Ctrl + Shift + p - Edit.GoToFile  --> No need to change any key bindings in Visual Studio for this
+" Ctrl + s - File.SaveAll
+" Ctrl + k, Ctrl + d - Edit.FormatDocument --> No need to change any key bindings in Visual Studio for this
+
+set number
+set relativenumber
+
+nmap <C-O> :vsc View.NavigateBackward<CR>
+nmap <C-I> :vsc View.NavigateForward<CR>
+
+" copied from Vim 7.3's mswin.vim:
+
+" CTRL-X and SHIFT-Del are Cut
+vnoremap <C-X> "+x
+vnoremap <S-Del> "+x
+
+" CTRL-C and CTRL-Insert are Copy
+vnoremap <C-C> "+y
+vnoremap <C-Insert> "+y
+
+" CTRL-V and SHIFT-Insert are Paste
+map <C-V>		"+gP
+map <S-Insert>		"+gP
+imap <C-V>		<Esc>"+gpa
+
+cmap <C-V>		<C-R>+
+cmap <S-Insert>		<C-R>+
+
+
+imap <S-Insert>		<C-V>
+vmap <S-Insert>		<C-V>
+
+" Use CTRL-Q to do what CTRL-V used to do
+noremap <C-Q>		<C-V>
+
+" quick info
+noremap gh :vsc Edit.QuickInfo<CR>
