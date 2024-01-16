@@ -1,0 +1,12 @@
+" Map the following directly in Rider
+" Alt + Shift + F - reformat code
+" Ctrl + Shift + P - go to file
+" Ctrl + B = Explorer => Change VIM Setting to let this key handled by IDE
+" Enable open file with single click
+
+set number
+set relativenumber
+set NERDTree
+
+nnoremap gh :action QuickJavaDoc<CR>
+nnoremap ge :action ShowErrorDescription<CR>
